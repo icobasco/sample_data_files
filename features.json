@@ -1,0 +1,71 @@
+{
+  "items": [
+    {
+      "title": "QRCODE",
+      "description": "Spara QRCODE e ottiene testo",
+      "status": "Da fare"
+    },
+    {
+      "title": "Drag N Drop",
+      "description": "Sposta img per lo schermo (vedi dama)",
+      "status": "Da fare"
+    },
+    {
+      "title": "Device Info",
+      "description": "Info sul telefono",
+      "status": "Da fare"
+    },
+    {
+      "title": "WebView",
+      "description": "Navigazione web",
+      "status": "Da fare"
+    },
+    {
+      "title": "ListView vs RecyclerView",
+      "description": "Da Lollipop (5.0)",
+      "status": "Da fare"
+    },
+    {
+      "title": "EditText vs TextInputEditText",
+      "description": "Da Marshmallow (6.0) - 23.4.0",
+      "status": "Da fare"
+    },
+    {
+      "title":  "Toast vs SnackBar",
+      "description": "Vedi JsonActivity",
+      "status": "FATTO"
+    },
+    {
+      "title":  "AsyncTask",
+      "description": "Sempre loro?",
+      "status": "Da fare"
+    },
+    {
+      "title":  "HTTP vs Volley",
+      "description": "Usare DownloadmManager per file di grosse dimensioni",
+      "status": "Da fare"
+    },
+    {
+      "title":  "Toolbar",
+      "description": "Barra del titolo, CollapsingToolbar",
+      "status": "Da fare",
+      "Note": "Prima era la ActionBar, soppiantata poi dalla Toolbar da Lollipop (5.0)s",
+      "link": "https://www.html.it/pag/53624/la-toolbar/"
+    },
+    {
+      "title":  "Floating Action Button",
+      "description": "Pulsante",
+      "status": "Da fare"
+    },
+    {
+      "title":  "Navigation Drawer",
+      "description": "",
+      "status": "Da fare"
+    },
+    {
+      "title":  "Gradle",
+      "description": "In generale",
+      "status": "Da quanto usato in AS? Tramite dependencies sembra risolvere problemi di retrocompatibilità"
+    }
+  ]
+}
