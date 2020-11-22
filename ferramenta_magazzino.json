@@ -69,4 +69,18 @@
 		"descrizione": "Cerniera in ferro come da foto.",
 		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/234954"
 	},
+	{
+		"nome": "Maniglia con rosetta e bocchetta INSPIRE Eina in acciaio inossidabile spazzolato",
+		"quantita": 3,
+		"prezzo": "16,99",
+		"descrizione": "Coppia di maniglie in acciaio, due grani di fissaggio, chiave esagonale per grani, due bocchette, viti da legno, quadro Q8. Indicata per porta da interno battente con serratura patent",
+		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/239250"
+	},
+	{
+		"nome": "Maniglia con rosetta e bocchetta ATELIER Cloe in zama lucido",
+		"quantita": 1,
+		"prezzo": "24,99",
+		"descrizione": "Coppia di maniglie in zama lucido, due grani di fissaggio, chiave esagonale per grani, due bocchette, viti da legno, quadro Q8. Indicata per porta da interno battente con serratura patent",
+		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/141141"
+	},
 ]
