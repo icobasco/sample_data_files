@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="css/style.css">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+	<script>
+		$(document).ready(function(){
+		  $("p").click(function(){
+		    $(this).hide();
+		  });
+		});
+	</script>
+
+		<script>
+			$.getJSON( "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-json/dpc-covid19-ita-andamento-nazionale-latest.json", function( data ) {
+				  var items = [];
+					$.each(data, function(key, element) {
+						console.log("Ricevuto json totale");
+    				console.log(key + " : " + element);
+
+						$('#data_h').text("DATA");
+						$('#data_v').text(element.data);
+
+		        $('#data_h').text("data");
+		        $('#data_v').text(element.data);
+
+						$('#stato_h').text("stato");
+						$('#stato_v').text(element.stato);
+
+						$('#ricoverati_con_sintomi_h').text("ricoverati_con_sintomi");
+						$('#ricoverati_con_sintomi_v').text(element.ricoverati_con_sintomi);
+
+						$('#terapia_intensiva_h').text("terapia_intensiva");
+						$('#terapia_intensiva_v').text(element.terapia_intensiva);
+
+						$('#totale_ospedalizzati_h').text("totale_ospedalizzati");
+						$('#totale_ospedalizzati_v').text(element.totale_ospedalizzati);
+
+						$('#isolamento_domiciliare_h').text("isolamento_domiciliare");
+						$('isolamento_domiciliare_v').text(element.isolamento_domiciliare);
+
+						$('#totale_positivi_h').text("totale_positivi");
+						$('#totale_positivi_v').text(element.totale_positivi);
+
+						$('#nuovi_positivi_h').text("nuovi_positivi");
+						$('#nuovi_positivi_v').text(element.nuovi_positivi);
+
+						$('#variazione_totale_positivi_h').text("variazione_totale_positivi");
+						$('#variazione_totale_positivi_v').text(element.variazione_totale_positivi);
+
+						$('#deceduti_h').text("deceduti");
+						$('#deceduti_v').text(element.deceduti);
+
+						$('#dimessi_guariti_h').text("dimessi_guariti");
+						$('#dimessi_guariti_v').text(element.dimessi_guariti);
+
+						$('#casi_da_screening_h').text("casi_da_screening");
+						$('#casi_da_screening_v').text(element.casi_da_screening);
+
+						$('#casi_da_sospetto_diagnostico_h').text("casi_da_sospetto_diagnostico");
+						$('#casi_da_sospetto_diagnostico_v').text(element.casi_da_sospetto_diagnostico);
+
+						$('#tamponi_h').text("tamponi");
+						$('#tamponi_v').text(element.tamponi);
+
+						$('#totale_casi_h').text("totale_casi");
+						$('#totale_casi_v').text(element.totale_casi);
+
+						$('#note_h').text("note");
+						$('#note_v').text(element.note);
+
+						$('#casi_testati_h').text("casi_testati");
+						$('#casi_testati_v').text(element.casi_testati);
+
+			    });
+			});
+	</script>
+</head>
+
+<body>
+
+	<h2>My First JavaScript</h2>
+
+	<button
+		type="button"
+		onclick="document.getElementById('secondoPara').innerHTML = Date()">
+		Click me to display Date and Time.
+	</button>
+
+	<p id="primoPara">PRIMO paragrafo</p>
+	<p id="secondoPara">SECONDO paragrafo</p>
+	<p id="terzoPara">TERZO paragrafo</p>
+
+
+  <div id="content">
+      <div id="head">Header Section</div>
+      <div id="company">Company Image</div>
+      <div id="our_services">Our services</div>
+
+      <div class="riga">
+        <div class="quadrato" id="data_h">Header</div>
+        <div class="quadrato" id="data_v">Value</div>
+      </div>
+      <div class="riga">
+        <div class="quadrato" id="stato_h">Header</div>
+        <div class="quadrato" id="stato_v">Value</div>
+      </div>
+      <div class="riga">
+        <div class="quadrato" id="ricoverati_con_sintomi_h">Header</div>
+        <div class="quadrato" id="ricoverati_con_sintomi_v">Value</div>
+      </div>
+      <div class="riga">
+        <div class="quadrato" id="terapia_intensiva_h">Header</div>
+        <div class="quadrato" id="terapia_intensiva_v">Value</div>
+      </div>
+
+      <div class="riga">
+        <div class="quadrato" id="totale_ospedalizzati_h">Header</div>
+        <div class="quadrato" id="totale_ospedalizzati_v">Value</div>
+      </div>
+      <div class="riga">
+        <div class="quadrato" id="isolamento_domiciliare_h">Header</div>
+        <div class="quadrato" id="isolamento_domiciliare_v">Value</div>
+      </div>
+      <div class="riga">
+        <div class="quadrato" id="totale_positivi_h">Header</div>
+        <div class="quadrato" id="totale_positivi_v">Value</div>
+      </div>
+      <div class="riga">
+        <div class="quadrato" id="variazione_totale_positivi_h">Header</div>
+        <div class="quadrato" id="variazione_totale_positivi_v">Value</div>
+      </div>
+		</div>
+
+		<div class="riga">
+			<div class="quadrato" id="nuovi_positivi_h">Header</div>
+			<div class="quadrato" id="nuovi_positivi_v">Value</div>
+		</div>
+		<div class="riga">
+			<div class="quadrato" id="dimessi_guariti_h">Header</div>
+			<div class="quadrato" id="dimessi_guariti_v">Value</div>
+		</div>
+		<div class="riga">
+			<div class="quadrato" id="deceduti_h">Header</div>
+			<div class="quadrato" id="deceduti_v">Value</div>
+		</div>
+		<div class="riga">
+			<div class="quadrato" id="casi_da_sospetto_diagnostico_h">Header</div>
+			<div class="quadrato" id="casi_da_sospetto_diagnostico_v">Value</div>
+		</div>
+		<div class="riga">
+			<div class="quadrato" id="casi_da_screening">Header</div>
+			<div class="quadrato" id="casi_da_screening">Value</div>
+		</div>
+		<div class="riga">
+			<div class="quadrato" id="totale_casi_h">Header</div>
+			<div class="quadrato" id="totale_casi_v">Value</div>
+		</div>
+		<div class="riga">
+			<div class="quadrato" id="tamponi_h">Header</div>
+			<div class="quadrato" id="tamponi">Value</div>
+		</div>
+		<div class="riga">
+			<div class="quadrato" id="note_h">Header</div>
+			<div class="quadrato" id="note_v">Value</div>
+		</div>
+
+      <div id="footer">Footer</div>
+
+  </div>
+
+
+
+</body>
+</html>

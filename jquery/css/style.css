@@ -1,0 +1,67 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+#content {
+     text-align: center;
+     border: 1p solid black;
+     margin: auto;
+ }
+
+ #head {
+   border: 1px solid black;
+   background-color: burlywood;
+   color: white;
+   height: 70px;
+   margin-bottom: 10px;
+   line-height: 70px;
+ }
+
+ #company {
+   border: 1px solid black;
+   background-color: gray;
+   color: white;
+   height: 100px;
+
+   /* Nel caso di div FLEX */
+   display: flex;
+   justify-content: center; /* allinea contenuto in orizzontale */
+   align-items: center; /* allinea contenuto in verticale */
+ }
+
+ #out {
+   height: 40px;
+ }
+
+ .quadrato {
+   display: inline-block;
+   border: 1 px solid black;
+   background-color: grey;
+   color: white;
+   height: 80px;
+   width: 30%;
+   margin: 10px;
+   line-height: 80px;
+
+   /* Nel caso di div FLEX */
+   display: inline-flex;
+   justify-content: center; /* allinea contenuto in orizzontale */
+   align-items: center; /* allinea contenuto in verticale */
+ }
+
+ #footer {
+   border: 1px solid black;
+   background-color: blue;
+   color: white;
+   height: 40px;
+   line-height: 40px;
+ }
