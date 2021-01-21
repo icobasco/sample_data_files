@@ -1,0 +1,19 @@
+[{
+        "selettore": "$(\"#pippo\")",
+        "commento": "Selettore di ID",
+        "js": "Come farlo in javascript",
+        "jq": "Come farlo in jquery"
+    },
+    {
+        "selettore": "$(\".pluto\")",
+        "commento": "Selettore di classe",
+        "js": "Come farlo in javascript",
+        "jq": "Come farlo in jquery"
+    },
+    {
+        "selettore": "$(\"div\")",
+        "commento": "Selettore di tag",
+        "js": "Come farlo in javascript",
+        "jq": "Come farlo in jquery"
+    }
+]
