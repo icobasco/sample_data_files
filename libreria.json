@@ -1,0 +1,32 @@
+[
+{
+"ISBN": "88-386-6138-3",
+"titolo": "Progettazione di dati",
+"autori": "Stefano Ceri",
+"quantita": 10
+},
+{
+"ISBN": "88-386-5543-3",
+"titolo": "Server Linux",
+"autori": "Mario Rossi",
+"quantita": 5
+},
+  {
+"ISBN": "88-231-1111-3",
+"titolo": "React Js e React Native",
+"autori": "Mario De stefani",
+"quantita": 50
+},
+  {
+"ISBN": "23-2039-4049-3",
+"titolo": "Android Studio",
+"autori": "Simona De Luigi",
+"quantita": 3
+},
+    {
+"ISBN": "55-2929-4848-3",
+"titolo": "Php CSS e Html",
+"autori": "Antonio Carli",
+"quantita": 9
+}
+]
