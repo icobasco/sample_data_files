@@ -1,0 +1,67 @@
+[{
+        "cattoID": "59200",
+        "denominazione": "Chiesa di Sant'Antonio <Sant'Antonio, Piasco>",
+        "parr_ente": "BE4",
+        "tipologia": "chiesa",
+        "qualificazione": "parrocchiale",
+        "diocesi": "Saluzzo",
+        "comune": "Piasco(Sant'Antonio)",
+        "posizione": {
+            "lat": "44.560778",
+            "lng": "7.447408"
+        },
+        "messe": {
+            "invernali": {
+                "prefestive": [
+                    { "ora": "h17:00", "luogo": "Parrocchia" }
+                ],
+                "festive": [
+                    { "ora": "h11:00", "luogo": "Parrocchia" },
+                    { "ora": "h18:00", "luogo": "Parrocchia" }
+                ]
+            },
+            "estive": {
+                "prefestive": [
+                    { "ora": "h17:00", "luogo": "Parrocchia" }
+                ],
+                "festive": [
+                    { "ora": "h11:00", "luogo": "Parrocchia" },
+                    { "ora": "h18:00", "luogo": "Parrocchia" }
+                ]
+            }
+        }
+    },
+    {
+        "cattoID": "59202",
+        "denominazione": "Chiesa di San Giovanni Battista <Piasco>",
+        "parr_ente": "BE5",
+        "tipologia": "chiesa",
+        "qualificazione": "parrocchiale",
+        "diocesi": "Saluzzo",
+        "comune": "Piasco",
+        "posizione": {
+            "lat": "44.569014",
+            "lng": "7.457667"
+        },
+        "messe": {
+            "invernali": {
+                "prefestive": [
+                    { "ora": "h19:00", "luogo": "Parrocchia" }
+                ],
+                "festive": [
+                    { "ora": "h08:30", "luogo": "Parrocchia", "note": "Di regola a Madonna del Carmine" },
+                    { "ora": "h10:00", "luogo": "Parrocchia" }
+                ]
+            }
+        },
+        "estive": {
+            "prefestive": [
+                { "ora": "h19:00", "luogo": "Parrocchia" }
+            ],
+            "festive": [
+                { "ora": "h08:30", "luogo": "Parrocchia", "note": "Di regola a Madonna del Carmine" },
+                { "ora": "h10:00", "luogo": "Parrocchia" }
+            ]
+        }
+    }
+]
