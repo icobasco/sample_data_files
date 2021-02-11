@@ -1,0 +1,163 @@
+[{
+        "cattoID": "59200",
+        "denominazione": "Chiesa di Sant'Antonio <Sant'Antonio, Piasco>",
+        "parr_ente": "BE4",
+        "tipologia": "chiesa",
+        "qualificazione": "parrocchiale",
+        "diocesi": "Saluzzo",
+        "comune": "Piasco(Sant'Antonio)",
+        "posizione": {
+            "lat": "44.560778",
+            "lng": "7.447408"
+        },
+        "messe": {
+            "invernali": {
+                "prefestive": [
+                    { "ora": "h17:00", "luogo": "Parrocchia" }
+                ],
+                "festive": [
+                    { "ora": "h11:00", "luogo": "Parrocchia" },
+                    { "ora": "h18:00", "luogo": "Parrocchia" }
+                ]
+            },
+            "estive": {
+                "prefestive": [
+                    { "ora": "h17:00", "luogo": "Parrocchia" }
+                ],
+                "festive": [
+                    { "ora": "h11:00", "luogo": "Parrocchia" },
+                    { "ora": "h18:00", "luogo": "Parrocchia" }
+                ]
+            }
+        }
+    },
+    {
+        "cattoID": "59202",
+        "denominazione": "Chiesa di San Giovanni Battista <Piasco>",
+        "parr_ente": "BE5",
+        "tipologia": "chiesa",
+        "qualificazione": "parrocchiale",
+        "diocesi": "Saluzzo",
+        "comune": "Piasco",
+        "posizione": {
+            "lat": "44.569014",
+            "lng": "7.457667"
+        },
+        "messe": {
+            "invernali": {
+                "prefestive": [
+                    { "ora": "h19:00", "luogo": "Parrocchia" }
+                ],
+                "festive": [
+                    { "ora": "h08:30", "luogo": "Parrocchia", "note": "Di regola a Madonna del Carmine" },
+                    { "ora": "h10:00", "luogo": "Parrocchia" }
+                ]
+            },
+            "estive": {
+                "prefestive": [
+                    { "ora": "h19:00", "luogo": "Parrocchia" }
+                ],
+                "festive": [
+                    { "ora": "h08:30", "luogo": "Parrocchia", "note": "Di regola a Madonna del Carmine" },
+                    { "ora": "h10:00", "luogo": "Parrocchia" }
+                ]
+            }
+        }
+    },
+    {
+        "cattoID": "59258",
+        "denominazione": "Chiesa dei Santi Filippo e Giacomo <Verzuolo>",
+        "parr_ente": "BF1",
+        "tipologia": "chiesa",
+        "qualificazione": "parrocchiale",
+        "diocesi": "Saluzzo",
+        "comune": "Verzuolo",
+        "posizione": {
+            "lat": "44.6011",
+            "lng": "7.481117"
+        },
+        "messe": {
+            "invernali": {
+                "prefestive": [
+                    { "ora": "h18:00", "luogo": "Parrocchia" }
+                ],
+                "festive": [
+                    { "ora": "h10:00", "luogo": "Parrocchia" },
+                    { "ora": "h20:30", "luogo": "Parrocchia", "note": "Non sempre" }
+                ]
+            },
+            "estive": {
+                "prefestive": [
+                    { "ora": "h18:00", "luogo": "Parrocchia" }
+                ],
+                "festive": [
+                    { "ora": "h10:00", "luogo": "Parrocchia" },
+                    { "ora": "h20:30", "luogo": "Parrocchia", "note": "Non sempre" }
+                ]
+            }
+        }
+    },
+    {
+        "cattoID": "59255",
+        "denominazione": "Chiesa di San Bartolomeo <Falicetto, Verzuolo>",
+        "parr_ente": "BE-",
+        "tipologia": "chiesa",
+        "qualificazione": "parrocchiale",
+        "diocesi": "Saluzzo",
+        "comune": "Verzuolo(Falicetto)",
+        "posizione": {
+            "lat": "44.598583",
+            "lng": "7.514275"
+        },
+        "messe": {
+            "invernali": {
+                "prefestive": [
+                    { "ora": "h18:30", "luogo": "Parrocchia" }
+                ],
+                "festive": [
+                    { "ora": "h10:00", "luogo": "Parrocchia" }
+                ]
+            },
+            "estive": {
+                "prefestive": [
+                    { "ora": "h18:30", "luogo": "Parrocchia" }
+                ],
+                "festive": [
+                    { "ora": "h10:00", "luogo": "Parrocchia" }
+                ]
+            }
+        }
+    },
+    {
+        "cattoID": "59595",
+        "denominazione": "Chiesa di Santa Maria della Scala <Verzuolo>",
+        "parr_ente": "BF0",
+        "tipologia": "chiesa",
+        "qualificazione": "parrocchiale",
+        "diocesi": "Saluzzo",
+        "comune": "Verzuolo",
+        "posizione": {
+            "lat": "44.594889",
+            "lng": "7.482867"
+        },
+        "messe": {
+            "invernali": {
+                "prefestive": [
+                    {}
+                ],
+                "festive": [
+                    { "ora": "h09:00", "luogo": "Parrocchia" },
+                    { "ora": "h11:15", "luogo": "Parrocchia" }
+                ]
+            },
+            "estive": {
+                "prefestive": [
+                    { "ora": "h18:30", "luogo": "Parrocchia" }
+                ],
+                "festive": [
+                    { "ora": "h10:00", "luogo": "Parrocchia" }
+                ]
+            }
+        }
+    }
+]
