@@ -152,10 +152,75 @@
             },
             "estive": {
                 "prefestive": [
-                    { "ora": "h18:30", "luogo": "Parrocchia" }
+                    {}
                 ],
                 "festive": [
-                    { "ora": "h10:00", "luogo": "Parrocchia" }
+                    { "ora": "h09:00", "luogo": "Parrocchia" },
+                    { "ora": "h11:15", "luogo": "Parrocchia" }
+                ]
+            }
+        }
+    },
+    {
+        "cattoID": "59254",
+        "denominazione": "Chiesa di Sant'Andrea <Villanovetta, Verzuolo>",
+        "parr_ente": "BE#",
+        "tipologia": "chiesa",
+        "qualificazione": "parrocchiale",
+        "diocesi": "Saluzzo",
+        "comune": "Verzuolo(Villanovetta)",
+        "posizione": {
+            "lat": "44.588111",
+            "lng": "7.480347"
+        },
+        "messe": {
+            "invernali": {
+                "prefestive": [
+                    { "ora": "h18:00", "luogo": "Parrocchia" }
+                ],
+                "festive": [
+                    { "ora": "h11:15", "luogo": "Parrocchia" }
+                ]
+            },
+            "estive": {
+                "prefestive": [
+                    { "ora": "h18:00", "luogo": "Parrocchia" }
+                ],
+                "festive": [
+                    { "ora": "h11:15", "luogo": "Parrocchia" }
+                ]
+            }
+        }
+    },
+    {
+        "cattoID": "58740",
+        "denominazione": "Chiesa di Santa Maria Maddalena <Costigliole Saluzzo>",
+        "parr_ente": "BDM",
+        "tipologia": "chiesa",
+        "qualificazione": "parrocchiale",
+        "diocesi": "Saluzzo",
+        "comune": "Costigliole Saluzzo",
+        "posizione": {
+            "lat": "44.563556",
+            "lng": "7.483425"
+        },
+        "messe": {
+            "invernali": {
+                "prefestive": [
+                    { "ora": "h18:00", "luogo": "Parrocchia" }
+                ],
+                "festive": [
+                    { "ora": "h11:00", "luogo": "Parrocchia" },
+                    { "ora": "h18:00", "luogo": "Parrocchia" }
+                ]
+            },
+            "estive": {
+                "prefestive": [
+                    { "ora": "h18:00", "luogo": "Parrocchia" }
+                ],
+                "festive": [
+                    { "ora": "h11:00", "luogo": "Parrocchia" },
+                    { "ora": "h18:00", "luogo": "Parrocchia" }
                 ]
             }
         }
