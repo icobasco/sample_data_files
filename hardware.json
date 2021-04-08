@@ -3,30 +3,30 @@
 "quantita":1,
 "oggetto":"Mouse",
 "codice":"AF39304",
-"Prezzo Unitario":"12.44€"
+"prezzo_unitario":"12.44€"
 },
 {
 "quantita":1,
 "oggetto":"Tastiera",
 "codice":"RR40505",
-"Prezzo Unitario":"29.13€"
+"prezzo_unitario":"29.13€"
 },
 {
 "quantita":1,
 "oggetto":"Monitor",
 "codice":"TR50505",
-"Prezzo Unitario":"99.23€"
+"prezzo_unitario":"99.23€"
 },
 {
 "quantita":1,
 "oggetto":"HDD",
 "codice":"PR596969",
-"Prezzo Unitario":"78.99€"
+"prezzo_unitario":"78.99€"
 },
 {
 "quantita":1,
 "oggetto":"Casse",
 "codice":"WE209304",
-"Prezzo Unitario":"11.44€"
+"prezzo_unitario":"11.44€"
 }
 ]
