@@ -7,73 +7,73 @@
 },
 {
 "prodotto":"Solvay Bicarbonato Di Sodio Purissimo 1000 g",
-"codice":"8026048000088",
+"codice_ean":"8026048000088",
 "prezzo_unitario":"1,97",
 "quantita":"120"
 },
 {
 "prodotto":"Selex The Deteinato 25 Filtri 40 g",
-"codice":"8003100800015",
+"codice_ean":"8003100800015",
 "prezzo_unitario":"0,99",
 "quantita":"94"
 },
 {
 "prodotto":"Colussi il GranTurchese 800 g",
-"codice":"8002590045043",
+"codice_ean":"8002590045043",
 "prezzo_unitario":"3,09",
 "quantita":"120"
 },
 {
 "prodotto":"Fratelli Rosso 6 Uova Fresche A - Medie",
-"codice":"8004862150264",
+"codice_ean":"8004862150264",
 "prezzo_unitario":"0,99",
 "quantita":"67"
 },
 {
 "prodotto":"Martina Naturale 1,5 L",
-"codice":"8010333001874",
+"codice_ean":"8010333001874",
 "prezzo_unitario":"0,16",
 "quantita":"320"
 },
 {
 "prodotto":"Nonno Nanni stracchino 200 g",
-"codice":"8007222502901",
+"codice_ean":"8007222502901",
 "prezzo_unitario":"2,99",
 "quantita":"45"
 },
 {
 "prodotto":"Doria Atene 500g Gardaland",
-"codice":"8000605020269",
+"codice_ean":"8000605020269",
 "prezzo_unitario":"1,26",
 "quantita":"430"
 },
 {
 "prodotto":"Pan di Stelle Biscotti 350g",
-"codice":"8076809500302",
+"codice_ean":"8076809500302",
 "prezzo_unitario":"1,61",
 "quantita":"90"
 },
 {
 "prodotto":"Sammontana Barattolino Delizie di Nocciola 500 g",
-"codice":"8005840002681",
+"codice_ean":"8005840002681",
 "prezzo_unitario":"3,89",
 "quantita":"30"
 },
 {
 "prodotto":"Eva Rocce Azzurre Frizzante 1,5 L",
-"codice":"8058450670078",
+"codice_ean":"8058450670078",
 "prezzo_unitario":"0,34",
 "quantita":"500"
 },
 {
 "prodotto":"Eva Rocce Azzurre Naturale Quadrata 1,5 L",
-"codice":"8058450670061",
+"codice_ean":"8058450670061",
 "prezzo_unitario":"0,34",
 "quantita":"500"
 },
 {
 "prodotto":"Eva Fonti Alta Valle Po Rocce Azzurre Acqua Minerale Naturale 6 x 0,5 L",
-"codice":"8058450670900",
+"codice_ean":"8058450670900",
 "prezzo_unitario":"1,45",
 "quantita":"78"
 }
