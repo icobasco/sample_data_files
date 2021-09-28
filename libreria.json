@@ -1,37 +1,43 @@
 [
-{
-"ISBN": "8838661383",
-"titolo": "Progettazione di dati",
-"autori": "Stefano Ceri",
-"quantita": 10,
-"copertina_url": "https://images-na.ssl-images-amazon.com/images/I/41YshN+bamL.jpg"
-},
-{
-"ISBN": "9788826821870",
-"titolo": "PRO.TECH A",
-"autori": "Lorenzi, Rizzi, Moriggia, Cavalli",
-"quantita": 2,
-"copertina_url": "https://images-na.ssl-images-amazon.com/images/I/51LGrSZu9HL._SX360_BO1,204,203,200_.jpg"
-},
-{
-"ISBN": "9788820388584",
-"titolo": "NUOVO TECNOLOGIE E PROGETTAZIONE DI SISTEMI INFORMATICI E DI TELECOMUNICAZIONI",
-"autori": "Camagni, Nikolassy",
-"quantita": 5,
-"copertina_url": "https://copertine.hoepli.it/hoepli/xxl/978/8820/9788820388584.jpg"
-},
-{
-"ISBN": "9788824783149",
-"titolo": "Compuworld 4.0 Open",
-"autori": "Beltramo, Iacobelli",
-"quantita": 1,
-"copertina_url": "https://www.mondadorieducation.it/media/img/120900057807GRA.jpg?x69744"
-},
-{
-"ISBN": "9788820389703",
-"titolo": "PYTHON - QUADERNI DI TECNOLOGIE",
-"autori": "Camagni, Nikolassy",
-"quantita": 10,
-"copertina_url": "https://copertine.hoepli.it/hoepli/xxl/978/8820/9788820389703.jpg"
-}
+    {
+        "ISBN": "8838661383",
+        "titolo": "Progettazione di dati",
+        "autori": "Stefano Ceri",
+        "quantita": 10,
+        "copertina_url": "https://images-na.ssl-images-amazon.com/images/I/41YshN+bamL.jpg",
+        "prezzo_euro": "99,90"
+    },
+    {
+        "ISBN": "9788826821870",
+        "titolo": "PRO.TECH A",
+        "autori": "Lorenzi, Rizzi, Moriggia, Cavalli",
+        "quantita": 2,
+        "copertina_url": "https://images-na.ssl-images-amazon.com/images/I/51LGrSZu9HL._SX360_BO1,204,203,200_.jpg",
+        "prezzo_euro": "25,50"
+    },
+    {
+        "ISBN": "9788820388584",
+        "titolo": "NUOVO TECNOLOGIE E PROGETTAZIONE DI SISTEMI INFORMATICI E DI TELECOMUNICAZIONI",
+        "autori": "Camagni, Nikolassy",
+        "quantita": 5,
+        "copertina_url": "https://copertine.hoepli.it/hoepli/xxl/978/8820/9788820388584.jpg",
+        "prezzo_euro": "23,90"
+    },
+    {
+        "ISBN": "9788824783149",
+        "titolo": "Compuworld 4.0 Open",
+        "autori": "Beltramo, Iacobelli",
+        "quantita": 1,
+        "copertina_url": "https://www.mondadorieducation.it/media/img/120900057807GRA.jpg?x69744",
+        "prezzo_euro": "23,80"
+    },
+    {
+        "ISBN": "9788820389703",
+        "titolo": "PYTHON - QUADERNI DI TECNOLOGIE",
+        "autori": "Camagni, Nikolassy",
+        "quantita": 10,
+        "copertina_url": "https://copertine.hoepli.it/hoepli/xxl/978/8820/9788820389703.jpg",
+        "prezzo_euro": "9,60"
+    }
 ]
+    
