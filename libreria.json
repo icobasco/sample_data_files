@@ -5,7 +5,7 @@
         "autori": "Stefano Ceri",
         "quantita": 10,
         "copertina_url": "https://images-na.ssl-images-amazon.com/images/I/41YshN+bamL.jpg",
-        "prezzo_euro": "99,90"
+        "prezzo_euro": "99.90"
     },
     {
         "ISBN": "9788826821870",
@@ -13,7 +13,7 @@
         "autori": "Lorenzi, Rizzi, Moriggia, Cavalli",
         "quantita": 2,
         "copertina_url": "https://images-na.ssl-images-amazon.com/images/I/51LGrSZu9HL._SX360_BO1,204,203,200_.jpg",
-        "prezzo_euro": "25,50"
+        "prezzo_euro": "25.50"
     },
     {
         "ISBN": "9788820388584",
@@ -21,7 +21,7 @@
         "autori": "Camagni, Nikolassy",
         "quantita": 5,
         "copertina_url": "https://copertine.hoepli.it/hoepli/xxl/978/8820/9788820388584.jpg",
-        "prezzo_euro": "23,90"
+        "prezzo_euro": "23.90"
     },
     {
         "ISBN": "9788824783149",
@@ -29,7 +29,7 @@
         "autori": "Beltramo, Iacobelli",
         "quantita": 1,
         "copertina_url": "https://www.mondadorieducation.it/media/img/120900057807GRA.jpg?x69744",
-        "prezzo_euro": "23,80"
+        "prezzo_euro": "23.80"
     },
     {
         "ISBN": "9788820389703",
@@ -37,7 +37,86 @@
         "autori": "Camagni, Nikolassy",
         "quantita": 10,
         "copertina_url": "https://copertine.hoepli.it/hoepli/xxl/978/8820/9788820389703.jpg",
-        "prezzo_euro": "9,60"
+        "prezzo_euro": "9.60"
+    },
+    {
+        "ISBN": "9788804667247",
+        "titolo": "Angeli e Demoni",
+        "autori": "Dan Brown",
+        "quantita": 0,
+        "copertina_url": "https://images-eu.ssl-images-amazon.com/images/I/51F3efIjSIL._SY264_BO1,204,203,200_QL40_ML2_.jpg",
+        "prezzo_euro": "12.35"
+    },
+    {
+        "ISBN": "9788804667223",
+        "titolo": "Il Codice Da Vinci",
+        "autori": "Dan Brown",
+        "quantita": 3,
+        "copertina_url": "https://m.media-amazon.com/images/P/B005SZ7Q86.01._SCLZZZZZZZ_SX500_.jpg",
+        "prezzo_euro": "22.50"
+    },
+    {
+        "ISBN": "9788834603000",
+        "titolo": "Il Nome della Rosa",
+        "autori": "Umberto Eco",
+        "quantita": 1,
+        "copertina_url": "https://images-eu.ssl-images-amazon.com/images/I/51iHeQt7tKL._SY264_BO1,204,203,200_QL40_ML2_.jpg",
+        "prezzo_euro": "17.50"
+    },
+    {
+        "ISBN": "9788854172647",
+        "titolo": "Cuore",
+        "autori": "Edmondo De Amicis",
+        "quantita": 0,
+        "copertina_url": "https://images-na.ssl-images-amazon.com/images/I/41EqiRrcNZL._SX325_BO1,204,203,200_.jpg",
+        "prezzo_euro": "3.90"
+    },
+    {
+        "ISBN": "9788833926575",
+        "titolo": "Alan Turing - Storia di un enigma",
+        "autori": "Andrew Hodges",
+        "quantita": 5,
+        "copertina_url": "https://images-na.ssl-images-amazon.com/images/I/51jy6JFgisL._SX344_BO1,204,203,200_.jpg",
+        "prezzo_euro": "14.90"
+    },
+    {
+        "ISBN": "9788867147908",
+        "titolo": "Il Grufalò",
+        "autori": "Julia Donaldson, Axel Scheffler",
+        "quantita": 15,
+        "copertina_url": "https://images-na.ssl-images-amazon.com/images/I/51JMmAm5CHL._SX401_BO1,204,203,200_.jpg",
+        "prezzo_euro": "6.90"
+    },
+    {
+        "ISBN": "9788854180789",
+        "titolo": "I viaggi di Gulliver",
+        "autori": "Jonathan Swift",
+        "quantita": 7,
+        "copertina_url": "https://images-na.ssl-images-amazon.com/images/I/41y-UHZmWoL._SX327_BO1,204,203,200_.jpg",
+        "prezzo_euro": "4.90"
+    },
+    {
+        "ISBN": "9788854165342",
+        "titolo": "Moby Dick",
+        "autori": "Herman Melville",
+        "quantita": 1,
+        "copertina_url": "https://images-na.ssl-images-amazon.com/images/I/41G84P9msjL._SX322_BO1,204,203,200_.jpg",
+        "prezzo_euro": "4.60"
+    },
+    {
+        "ISBN": "9788854165076",
+        "titolo": "Cime Tempestose",
+        "autori": "Emily Bronte",
+        "quantita": 2,
+        "copertina_url": "https://images-na.ssl-images-amazon.com/images/I/41bd9Lz4yyL._SX323_BO1,204,203,200_.jpg",
+        "prezzo_euro": "4.65"
+    },
+    {
+        "ISBN": "9788893814508",
+        "titolo": "Harry Potter e la Pietra Filosofale",
+        "autori": "J. K. Rowling",
+        "quantita": 2,
+        "copertina_url": "https://images-na.ssl-images-amazon.com/images/I/41btb9bp4+L._SX324_BO1,204,203,200_.jpg",
+        "prezzo_euro": "8.90"
     }
 ]
-    
