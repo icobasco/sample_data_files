@@ -1,0 +1,42 @@
+[
+    {
+        "ISBN": "9788867147908",
+        "titolo": "Il Grufalò",
+        "autori": "Julia Donaldson, Axel Scheffler",
+        "quantita": 15,
+        "copertina_url": "https://images-na.ssl-images-amazon.com/images/I/51JMmAm5CHL._SX401_BO1,204,203,200_.jpg",
+        "prezzo_euro": "6.90"
+    },
+    {
+        "ISBN": "9788854180789",
+        "titolo": "I viaggi di Gulliver",
+        "autori": "Jonathan Swift",
+        "quantita": 7,
+        "copertina_url": "https://images-na.ssl-images-amazon.com/images/I/41y-UHZmWoL._SX327_BO1,204,203,200_.jpg",
+        "prezzo_euro": "4.90"
+    },
+    {
+        "ISBN": "9788854165342",
+        "titolo": "Moby Dick",
+        "autori": "Herman Melville",
+        "quantita": 1,
+        "copertina_url": "https://images-na.ssl-images-amazon.com/images/I/41G84P9msjL._SX322_BO1,204,203,200_.jpg",
+        "prezzo_euro": "4.60"
+    },
+    {
+        "ISBN": "9788854165076",
+        "titolo": "Cime Tempestose",
+        "autori": "Emily Bronte",
+        "quantita": 2,
+        "copertina_url": "https://images-na.ssl-images-amazon.com/images/I/41bd9Lz4yyL._SX323_BO1,204,203,200_.jpg",
+        "prezzo_euro": "4.65"
+    },
+    {
+        "ISBN": "9788893814508",
+        "titolo": "Harry Potter e la Pietra Filosofale",
+        "autori": "J. K. Rowling",
+        "quantita": 2,
+        "copertina_url": "https://images-na.ssl-images-amazon.com/images/I/41btb9bp4+L._SX324_BO1,204,203,200_.jpg",
+        "prezzo_euro": "8.90"
+    }
+]
