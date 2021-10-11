@@ -1,0 +1,50 @@
+[
+	{		
+        "id": "C001",
+        "nome": "Trancio pizza margherita",
+		"tipo": "CIBO",
+        "prezzo_euro": "2.50"
+    },
+	{		
+        "id": "C002",
+        "nome": "Trancio pizza prosciutto",
+		"tipo": "CIBO",
+        "prezzo_euro": "2.50"
+    },
+	{		
+        "id": "C003",
+        "nome": "Trancio pizza salame",
+		"tipo": "CIBO",
+        "prezzo_euro": "2.50"
+    },
+	{		
+        "id": "C004",
+        "nome": "Insalatona",
+		"tipo": "CIBO",
+        "prezzo_euro": "5.50"
+    },
+	{		
+        "id": "C005",
+        "nome": "Kebab",
+		"tipo": "CIBO",
+        "prezzo_euro": "4.00"
+    },
+	{		
+        "id": "B001",
+        "nome": "Sprite lattina 33cl",
+		"tipo": "BEVANDA",
+        "prezzo_euro": "2.00"
+    },
+	{		
+        "id": "B002",
+        "nome": "Coca Cola lattina 33cl",
+		"tipo": "BEVANDA",
+        "prezzo_euro": "2.00"
+    },
+	{		
+        "id": "B003",
+        "nome": "Fanta lattina 33cl",
+		"tipo": "BEVANDA",
+        "prezzo_euro": "2.00"
+    },
+]
