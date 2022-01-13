@@ -1,0 +1,33 @@
+{
+  "mieiFilm": [{
+      "titolo": "Rush",
+      "genere": "Sportivo",
+      "anno": 2015,
+      "durata": 130,
+      "lingua": "italiano",
+      "regista": "boh",
+      "casa produzione": "boh",
+      "trama": "Ruuuush Ruuuush Ruuuush Ruuuush Ruuuush Ruuuush Ruuuush Ruuuush Ruuuush Ruuuush "
+    },
+    {
+      "titolo": "BeeMovie",
+      "genere": "Animazione",
+      "anno": 2020,
+      "durata": 180,
+      "lingua": "italiano",
+      "regista": "boh",
+      "casa produzione": "boh",
+      "trama": "Bee Bee Bee Bee Bee Bee Bee Bee Bee Bee Bee Bee Bee Bee "
+    },
+    {
+      "titolo": "Beautiful",
+      "genere": "Drammatico",
+      "anno": 1999,
+      "durata": 240,
+      "lingua": "italiano",
+      "regista": "boh",
+      "casa produzione": "boh",
+      "trama": "Bellissimo Bellissimo Bellissimo Bellissimo Bellissimo Bellissimo Bellissimo "
+    }
+  ]
+}
