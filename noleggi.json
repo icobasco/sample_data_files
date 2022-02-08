@@ -1,0 +1,65 @@
+[{
+"targa":"AL938PG",
+"modello":"Audi A6",
+"tariffa":"60",
+"giorno":"15",
+"cliente":{
+"nome":"Mario",
+"cognome":"Rossi"
+}
+},
+{
+"targa":"AL938PG",
+"modello":"Audi A6",
+"tariffa":"60",
+"giorno":"55",
+"cliente":{
+"nome":"Simona",
+"cognome":"Bianchi"
+}
+},
+
+{
+"targa":"AL911PG",
+"modello":"Audi A2",
+"tariffa":"49",
+"giorno":"7",
+"cliente":{
+"nome":"Mario",
+"cognome":"Rossi"
+}
+},
+
+{
+"targa":"AR111QW",
+"modello":"Fiat 500",
+"tariffa":"34",
+"giorno":"150",
+"cliente":{
+"nome":"Mario",
+"cognome":"Rossi"
+}
+},
+
+{
+"targa":"AL938PG",
+"modello":"Audi A6",
+"tariffa":"60",
+"giorno":"15",
+"cliente":{
+"nome":"Luca",
+"cognome":"Verdi"
+}
+},
+
+{
+"targa":"AL938PG",
+"modello":"Audi A6",
+"tariffa":"60",
+"giorno":"2",
+"cliente":{
+"nome":"Mario",
+"cognome":"Rossi"
+}
+}
+]
