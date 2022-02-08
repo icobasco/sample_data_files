@@ -1,0 +1,41 @@
+[{
+"codice":"AF3993",
+"indirizzo":"Via Roma",
+"cap":"19004",
+"citta":"Milano",
+"Superficie":"50 mq",
+"tipologia": "Villa"
+},
+{
+"codice":"AK9992",
+"indirizzo":"Via Genova",
+"cap":"19002",
+"citta":"Milano",
+"Superficie":"100 mq",
+"tipologia": "Appartament"
+},
+{
+"codice":"AF3488",
+"indirizzo":"Via Milano",
+"cap":"10002",
+"citta":"Milano",
+"Superficie":"150 mq",
+"tipologia": "Villa"
+},
+{
+"codice":"AF2193",
+"indirizzo":"Via Palermo",
+"cap":"16002",
+"citta":"Saluzzo",
+"Superficie":"90 mq",
+"tipologia": "Appartamento"
+},
+{
+"codice":"AF9373",
+"indirizzo":"Via Cuneo",
+"cap":"12102",
+"citta":"Cuneo",
+"Superficie":"87 mq",
+"tipologia": "Villa"
+}
+]
