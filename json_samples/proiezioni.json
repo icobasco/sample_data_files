@@ -30,7 +30,7 @@
 					},				
 					{
 						"orario": "17:00",
-						"film": "Top Gun - Maverick",
+						"film": "Lightyear - La vera storia di Buzz",
 						"note": "",
 						"sala": "2"
 					},			
@@ -76,7 +76,7 @@
 					},			
 					{
 						"orario": "22:00",
-						"film": "Top Gun - Maverick",
+						"film": "Thor: Love and Thunder",
 						"note": "",
 						"sala": "VIP"
 					}
@@ -91,7 +91,7 @@
 					},				
 					{
 						"orario": "17:00",
-						"film": "Top Gun - Maverick",
+						"film": "Thor: Love and Thunder",
 						"note": "",
 						"sala": "2"
 					},		
