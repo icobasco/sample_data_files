@@ -1,0 +1,120 @@
+{
+	"cinema": [
+		{
+			"nome": "Cinema Fiamma",
+			"indirizzo": "via Roma, 1",
+			"citta": "Saluzzo",
+			"spettacoli": {
+				"sabato":	
+				[			
+					{
+						"orario": "21:00",
+						"film": "Sonic 2",
+						"note": "Visione 3D",
+						"sala": "1"
+					},				
+					{
+						"orario": "21:00",
+						"film": "Top Gun - Maverick",
+						"note": "",
+						"sala": "2"
+					}
+				],
+				"domenica":
+				[
+					{
+						"orario": "17:00",
+						"film": "Sonic 2",
+						"note": "Visione 3D",
+						"sala": "1"
+					},				
+					{
+						"orario": "17:00",
+						"film": "Top Gun - Maverick",
+						"note": "",
+						"sala": "2"
+					},			
+					{
+						"orario": "17:00",
+						"film": "Top Gun - Maverick",
+						"note": "",
+						"sala": "3"
+					}
+				]
+			}
+		},
+		{
+			"nome": "Cinelandia",
+			"indirizzo": "via Cuneo, 1",
+			"citta": "Borgo S. Dalmazzo",
+			"spettacoli": {
+				"sabato":	
+				[			
+					{
+						"orario": "21:00",
+						"film": "Sonic 2",
+						"note": "Visione 3D",
+						"sala": "1"
+					},				
+					{
+						"orario": "21:00",
+						"film": "Top Gun - Maverick",
+						"note": "",
+						"sala": "2"
+					},		
+					{
+						"orario": "21:00",
+						"film": "Top Gun - Maverick",
+						"note": "",
+						"sala": "3"
+					},			
+					{
+						"orario": "21:00",
+						"film": "Jurassic World - Il Dominio",
+						"note": "",
+						"sala": "4"
+					},			
+					{
+						"orario": "22:00",
+						"film": "Top Gun - Maverick",
+						"note": "",
+						"sala": "VIP"
+					}
+				],
+				"domenica":
+				[
+					{
+						"orario": "17:00",
+						"film": "Sonic 2",
+						"note": "Visione 3D",
+						"sala": "1"
+					},				
+					{
+						"orario": "17:00",
+						"film": "Top Gun - Maverick",
+						"note": "",
+						"sala": "2"
+					},		
+					{
+						"orario": "17:00",
+						"film": "Harry Potter e il Calice di Fuoco",
+						"note": "",
+						"sala": "3"
+					},		
+					{
+						"orario": "17:00",
+						"film": "Il Padrino",
+						"note": "",
+						"sala": "4"
+					},		
+					{
+						"orario": "17:00",
+						"film": "Paw Patrol - Il Film",
+						"note": "",
+						"sala": "5"
+					}
+				]
+			}
+		}
+	]
+}
