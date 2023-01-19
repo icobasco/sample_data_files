@@ -1,4 +1,4 @@
-films = [
+[
 	{
 		"titolo": "2012", 
 		"copertina": "2012.jpg", 
@@ -414,7 +414,7 @@ films = [
 		"note": "", 
 	},
 	{
-		"titolo": "Herbie - 2 Il Maggiolino sempre più matto", 
+		"titolo": "Herbie - 2 Il Maggiolino sempre piÃ¹ matto", 
 		"copertina": "herbie_2_il_maggiolino_sempre_piu_matto.jpg", 
 		"anno": "0", 
 		"note": "", 
@@ -480,7 +480,7 @@ films = [
 		"note": "", 
 	},
 	{
-		"titolo": "Quello strano cane di papà", 
+		"titolo": "Quello strano cane di papÃ ", 
 		"copertina": "quello_strano_cane_di_papa.jpg", 
 		"anno": "0", 
 		"note": "", 
@@ -564,7 +564,7 @@ films = [
 		"note": "", 
 	},
 	{
-		"titolo": "Giù per il Tubo", 
+		"titolo": "GiÃ¹ per il Tubo", 
 		"copertina": "giu_per_il_tubo.jpg", 
 		"anno": "0", 
 		"note": "", 
@@ -1224,7 +1224,7 @@ films = [
 		"note": "", 
 	},
 	{
-		"titolo": "Sing 2 - Sempre più forte", 
+		"titolo": "Sing 2 - Sempre piÃ¹ forte", 
 		"copertina": "sing_2_sempre_piu_forte.jpg", 
 		"anno": "0", 
 		"note": "", 
@@ -1512,13 +1512,13 @@ films = [
 		"note": "", 
 	},
 	{
-		"titolo": "Chissà perché capitano tutte a me", 
+		"titolo": "ChissÃ  perchÃ© capitano tutte a me", 
 		"copertina": "chissa_perche_capitano_tutte_a_me.jpg", 
 		"anno": "0", 
 		"note": "", 
 	},
 	{
-		"titolo": "Continuavano a chiamarlo Trinità", 
+		"titolo": "Continuavano a chiamarlo TrinitÃ ", 
 		"copertina": "continuavano_a_chiamarlo_trinita.jpg", 
 		"anno": "0", 
 		"note": "", 
@@ -1566,7 +1566,7 @@ films = [
 		"note": "", 
 	},
 	{
-		"titolo": "Si può fare amigo", 
+		"titolo": "Si puÃ² fare amigo", 
 		"copertina": "si_puo_fare_amigo.jpg", 
 		"anno": "1972", 
 		"note": "", 
@@ -1596,7 +1596,7 @@ films = [
 		"note": "", 
 	},
 	{
-		"titolo": "Il Mio Nome è Thomas", 
+		"titolo": "Il Mio Nome Ã¨ Thomas", 
 		"copertina": "il_mio_nome_e_thomas.jpg", 
 		"anno": "2018", 
 		"note": "", 
@@ -1614,7 +1614,7 @@ films = [
 		"note": "", 
 	},
 	{
-		"titolo": "Lo Chiamavano Trinità", 
+		"titolo": "Lo Chiamavano TrinitÃ ", 
 		"copertina": "lo_chiamavano_trinita.jpg", 
 		"anno": "1970", 
 		"note": "", 
@@ -1632,7 +1632,7 @@ films = [
 		"note": "", 
 	},
 	{
-		"titolo": "Non c'è 2 senza 4", 
+		"titolo": "Non c'Ã¨ 2 senza 4", 
 		"copertina": "non_c_e_2_senza_4.jpg", 
 		"anno": "1984", 
 		"note": "", 
@@ -1674,13 +1674,13 @@ films = [
 		"note": "", 
 	},
 	{
-		"titolo": "Più Forte Ragazzi!", 
+		"titolo": "PiÃ¹ Forte Ragazzi!", 
 		"copertina": "piu_forte_ragazzi.jpg", 
 		"anno": "1973", 
 		"note": "", 
 	},
 	{
-		"titolo": "Poliziotto Superpiù", 
+		"titolo": "Poliziotto SuperpiÃ¹", 
 		"copertina": "poliziotto_superpiu.jpg", 
 		"anno": "1980", 
 		"note": "", 
@@ -2082,7 +2082,7 @@ films = [
 		"note": "", 
 	},
 	{
-		"titolo": "L’incredibile Hulk", 
+		"titolo": "LÂ’incredibile Hulk", 
 		"copertina": "l_incredibile_hulk.jpg", 
 		"anno": "2008", 
 		"note": "", 
@@ -2184,7 +2184,7 @@ films = [
 		"note": "", 
 	},
 	{
-		"titolo": "Può succedere anche a te", 
+		"titolo": "PuÃ² succedere anche a te", 
 		"copertina": "puo_succedere_anche_a_te.jpg", 
 		"anno": "0", 
 		"note": "", 
