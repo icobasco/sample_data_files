@@ -1,8 +1,9 @@
 [
 	{
 		"titolo": "2012",
-		"copertina_URL": "",
+		"copertina_url": "https://pad.mymovies.it/filmclub/2008/11/079/locandina.jpg",
 		"copertina": "2012.jpg",
+		"trailer_ITA_url": "https://www.youtube.com/watch?v=XXh43EJHm1o"
 		"durata": 0,
 		"anno": 0,
 		"bimbi": "NO",
@@ -12,7 +13,7 @@
 	},
 	{
 		"titolo": "Anche Se E Amore Non Si Vede",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "anche_se_e_amore_non_si_vede.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -23,7 +24,7 @@
 	},
 	{
 		"titolo": "A Bug's Life - Megaminimondo",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "a_bug_s_life_megaminimondo.jpg",
 		"durata": 95,
 		"anno": 1998,
@@ -34,7 +35,7 @@
 	},
 	{
 		"titolo": "A spasso col panda",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "a_spasso_col_panda.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -45,7 +46,7 @@
 	},
 	{
 		"titolo": "A spasso con i Dinosauri",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "a_spasso_con_i_dinosauri.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -56,7 +57,7 @@
 	},
 	{
 		"titolo": "Ainbo,Spirito dell'Amazzonia",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "ainbo_spirito_dell_amazzonia.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -67,7 +68,7 @@
 	},
 	{
 		"titolo": "Aladdin",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "aladdin.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -78,7 +79,7 @@
 	},
 	{
 		"titolo": "Alice Nel Paese Delle Meraviglie",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "alice_nel_paese_delle_meraviglie.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -89,7 +90,7 @@
 	},
 	{
 		"titolo": "Alla Ricerca della Valle Incantata 01",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "alla_ricerca_della_valle_incantata_01.jpg",
 		"durata": 0,
 		"anno": 1989,
@@ -100,7 +101,7 @@
 	},
 	{
 		"titolo": "Alla Ricerca della Valle Incantata 02 - Le Avventure Della Grande Vallata",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "alla_ricerca_della_valle_incantata_02_le_avventure_della_grande_vallata.jpg",
 		"durata": 0,
 		"anno": 1994,
@@ -111,7 +112,7 @@
 	},
 	{
 		"titolo": "Alla Ricerca della Valle Incantata 03 - Il Mistero della Sorgente",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "alla_ricerca_della_valle_incantata_03_il_mistero_della_sorgente.jpg",
 		"durata": 0,
 		"anno": 1996,
@@ -122,7 +123,7 @@
 	},
 	{
 		"titolo": "Alla Ricerca della Valle Incantata 04 - La Terra Delle Nebbie",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "alla_ricerca_della_valle_incantata_04_la_terra_delle_nebbie.jpg",
 		"durata": 0,
 		"anno": 1996,
@@ -133,7 +134,7 @@
 	},
 	{
 		"titolo": "Alla Ricerca della Valle Incantata 05 - L'Isola Misteriosa",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "alla_ricerca_della_valle_incantata_05_l_isola_misteriosa.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -144,7 +145,7 @@
 	},
 	{
 		"titolo": "Alla Ricerca della Valle Incantata 06 - Il Segreto di Saurus Rock",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "alla_ricerca_della_valle_incantata_06_il_segreto_di_saurus_rock.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -155,7 +156,7 @@
 	},
 	{
 		"titolo": "Alla Ricerca della Valle Incantata 07 - La Pietra di Fuoco Freddo",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "alla_ricerca_della_valle_incantata_07_la_pietra_di_fuoco_freddo.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -166,7 +167,7 @@
 	},
 	{
 		"titolo": "Alla Ricerca della Valle Incantata 08 - Il Grande Freddo,Avventura tra i Ghiacci",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "alla_ricerca_della_valle_incantata_08_il_grande_freddo_avventura_tra_i_ghiacci.jpg",
 		"durata": 0,
 		"anno": 2001,
@@ -177,7 +178,7 @@
 	},
 	{
 		"titolo": "Alla Ricerca della Valle Incantata 09 - Le Meraviglie del Mare",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "alla_ricerca_della_valle_incantata_09_le_meraviglie_del_mare.jpg",
 		"durata": 0,
 		"anno": 2003,
@@ -188,7 +189,7 @@
 	},
 	{
 		"titolo": "Alla Ricerca della Valle Incantata 10 - La Grande Migrazione",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "alla_ricerca_della_valle_incantata_10_la_grande_migrazione.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -199,7 +200,7 @@
 	},
 	{
 		"titolo": "Alla Ricerca della Valle Incantata 11 - L'Invasione dei Minisauri",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "alla_ricerca_della_valle_incantata_11_l_invasione_dei_minisauri.jpg",
 		"durata": 0,
 		"anno": 2005,
@@ -210,7 +211,7 @@
 	},
 	{
 		"titolo": "Alla Ricerca della Valle Incantata 12 - Il Giorno dei Rettili Volanti",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "alla_ricerca_della_valle_incantata_12_il_giorno_dei_rettili_volanti.jpg",
 		"durata": 0,
 		"anno": 2007,
@@ -221,7 +222,7 @@
 	},
 	{
 		"titolo": "Alla Ricerca della Valle Incantata 13 - In Viaggio con le Pance Gialle",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "alla_ricerca_della_valle_incantata_13_in_viaggio_con_le_pance_gialle.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -232,7 +233,7 @@
 	},
 	{
 		"titolo": "Alla Ricerca Di Dory",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "alla_ricerca_di_dory.jpg",
 		"durata": 97,
 		"anno": 2016,
@@ -243,7 +244,7 @@
 	},
 	{
 		"titolo": "Alla Ricerca di Nemo",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "alla_ricerca_di_nemo.jpg",
 		"durata": 100,
 		"anno": 2003,
@@ -254,7 +255,7 @@
 	},
 	{
 		"titolo": "Alvin Superstar",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "alvin_superstar.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -265,7 +266,7 @@
 	},
 	{
 		"titolo": "Angry Birds",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "angry_birds.jpg",
 		"durata": 97,
 		"anno": 2016,
@@ -276,7 +277,7 @@
 	},
 	{
 		"titolo": "Angry Birds 2 - Nemici x sempre",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "angry_birds_2_nemici_x_sempre.jpg",
 		"durata": 96,
 		"anno": 2019,
@@ -287,7 +288,7 @@
 	},
 	{
 		"titolo": "Animals United",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "animals_united.jpg",
 		"durata": 93,
 		"anno": 2010,
@@ -298,7 +299,7 @@
 	},
 	{
 		"titolo": "Asterix conquista l'America",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "asterix_conquista_l_america.jpg",
 		"durata": 85,
 		"anno": 1964,
@@ -309,7 +310,7 @@
 	},
 	{
 		"titolo": "Asterix e i Vichinghi",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "asterix_e_i_vichinghi.jpg",
 		"durata": 78,
 		"anno": 2006,
@@ -320,7 +321,7 @@
 	},
 	{
 		"titolo": "Asterix e il Regno degli Dei",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "asterix_e_il_regno_degli_dei.jpg",
 		"durata": 85,
 		"anno": 2014,
@@ -331,7 +332,7 @@
 	},
 	{
 		"titolo": "Asterix e il segreto della Pozione magica",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "asterix_e_il_segreto_della_pozione_magica.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -342,7 +343,7 @@
 	},
 	{
 		"titolo": "Asterix e la Pozione Magica",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "asterix_e_la_pozione_magica.jpg",
 		"durata": 79,
 		"anno": 1986,
@@ -353,7 +354,7 @@
 	},
 	{
 		"titolo": "Asterix e la Sorpresa di Cesare",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "asterix_e_la_sorpresa_di_cesare.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -364,7 +365,7 @@
 	},
 	{
 		"titolo": "Asterix e le 12 Fatiche",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "asterix_e_le_12_fatiche.jpg",
 		"durata": 82,
 		"anno": 1976,
@@ -375,7 +376,7 @@
 	},
 	{
 		"titolo": "Asterix il Gallico",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "asterix_il_gallico.jpg",
 		"durata": 68,
 		"anno": 1967,
@@ -386,7 +387,7 @@
 	},
 	{
 		"titolo": "Babe, Maialino Coraggioso",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "babe_maialino_coraggioso.jpg",
 		"durata": 0,
 		"anno": 1995,
@@ -397,7 +398,7 @@
 	},
 	{
 		"titolo": "Babe va in Città",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "babe_va_in_citta.jpg",
 		"durata": 0,
 		"anno": 1998,
@@ -407,7 +408,7 @@
 		"trailer_ITA_url": ""
 	},	{
 		"titolo": "Baby Boss",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "baby_boss.jpg",
 		"durata": 0,
 		"anno": 2017,
@@ -418,7 +419,7 @@
 	},
 	{
 		"titolo": "Baby Boss 2 - Affari di famiglia",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "baby_boss_2_affari_di_famiglia.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -429,7 +430,7 @@
 	},
 	{
 		"titolo": "Balto",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "balto.jpg",
 		"durata": 78,
 		"anno": 1995,
@@ -440,7 +441,7 @@
 	},
 	{
 		"titolo": "Balto - Sulle ali dell'avventura",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "balto_sulle_ali_dell_avventura.jpg",
 		"durata": 79,
 		"anno": 2004,
@@ -451,7 +452,7 @@
 	},
 	{
 		"titolo": "Balto 2 -Il mistero del lupo",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "balto_2_il_mistero_del_lupo.jpg",
 		"durata": 76,
 		"anno": 2002,
@@ -462,7 +463,7 @@
 	},
 	{
 		"titolo": "Bastoncino",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "bastoncino.jpg",
 		"durata": 27,
 		"anno": 2015,
@@ -473,7 +474,7 @@
 	},
 	{
 		"titolo": "Bee Movie",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "bee_movie.jpg",
 		"durata": 90,
 		"anno": 2007,
@@ -484,7 +485,7 @@
 	},
 	{
 		"titolo": "Bolt - Un Eroe a Quattro Zampe",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "bolt_un_eroe_a_quattro_zampe.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -495,7 +496,7 @@
 	},
 	{
 		"titolo": "Bongo e i 3 Avventurieri",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "bongo_e_i_3_avventurieri.jpg",
 		"durata": 0,
 		"anno": 1947,
@@ -506,7 +507,7 @@
 	},
 	{
 		"titolo": "Capitan Mutanda",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "capitan_mutanda.jpg",
 		"durata": 0,
 		"anno": 2017,
@@ -517,7 +518,7 @@
 	},
 	{
 		"titolo": "Cars - Motori Ruggenti",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "cars_motori_ruggenti.jpg",
 		"durata": 117,
 		"anno": 2006,
@@ -528,7 +529,7 @@
 	},
 	{
 		"titolo": "Cars 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "cars_2.jpg",
 		"durata": 106,
 		"anno": 2011,
@@ -539,7 +540,7 @@
 	},
 	{
 		"titolo": "Cars 3",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "cars_3.jpg",
 		"durata": 109,
 		"anno": 2017,
@@ -550,7 +551,7 @@
 	},
 	{
 		"titolo": "Cattivissimo Me 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "cattivissimo_me_2.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -561,7 +562,7 @@
 	},
 	{
 		"titolo": "Cattivissimo Me 3",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "cattivissimo_me_3.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -572,7 +573,7 @@
 	},
 	{
 		"titolo": "Cattivissimo Me",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "cattivissimo_me.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -583,7 +584,7 @@
 	},
 	{
 		"titolo": "Minions",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "minions.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -594,7 +595,7 @@
 	},
 	{
 		"titolo": "Cenerentola - 1950",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "cenerentola_1950.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -605,7 +606,7 @@
 	},
 	{
 		"titolo": "Cenerentola 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "cenerentola_2.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -616,7 +617,7 @@
 	},
 	{
 		"titolo": "Chicken Little - Amici per le penne",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "chicken_little_amici_per_le_penne.jpg",
 		"durata": 0,
 		"anno": 2005,
@@ -627,7 +628,7 @@
 	},
 	{
 		"titolo": "Coco",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "coco.jpg",
 		"durata": 105,
 		"anno": 2017,
@@ -638,7 +639,7 @@
 	},
 	{
 		"titolo": "Come D'incanto",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "come_d_incanto.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -649,7 +650,7 @@
 	},
 	{
 		"titolo": "Curioso Come George",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "curioso_come_george.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -660,7 +661,7 @@
 	},
 	{
 		"titolo": "Deep - Un'avventura in fondo al mare",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "deep_un_avventura_in_fondo_al_mare.jpg",
 		"durata": 0,
 		"anno": 2019,
@@ -671,7 +672,7 @@
 	},
 	{
 		"titolo": "Diario di una schiappa - La legge dei piu grandi",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "diario_di_una_schiappa_la_legge_dei_piu_grandi.jpg",
 		"durata": 0,
 		"anno": 2022,
@@ -682,7 +683,7 @@
 	},
 	{
 		"titolo": "Dinosauri",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "dinosauri.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -693,7 +694,7 @@
 	},
 	{
 		"titolo": "4 Bassotti per 1 Danese",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "4_bassotti_per_1_danese.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -704,7 +705,7 @@
 	},
 	{
 		"titolo": "Bambi",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "bambi.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -715,7 +716,7 @@
 	},
 	{
 		"titolo": "Biancaneve e i sette nani",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "biancaneve_e_i_sette_nani.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -726,7 +727,7 @@
 	},
 	{
 		"titolo": "Dennis La Minaccia",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "dennis_la_minaccia.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -737,7 +738,7 @@
 	},
 	{
 		"titolo": "Dumbo",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "dumbo.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -748,7 +749,7 @@
 	},
 	{
 		"titolo": "Fantasia",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "fantasia.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -759,7 +760,7 @@
 	},
 	{
 		"titolo": "Herbie - 1 Il Maggiolino tutto matto",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "herbie_1_il_maggiolino_tutto_matto.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -770,7 +771,7 @@
 	},
 	{
 		"titolo": "Herbie - 2 Il Maggiolino sempre più matto",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "herbie_2_il_maggiolino_sempre_piu_matto.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -781,7 +782,7 @@
 	},
 	{
 		"titolo": "Herbie - 3 Al Rally di Montecarlo",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "herbie_3_al_rally_di_montecarlo.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -792,7 +793,7 @@
 	},
 	{
 		"titolo": "Herbie - 4 Il Maggiolino sbarca in Messico",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "herbie_4_il_maggiolino_sbarca_in_messico.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -803,7 +804,7 @@
 	},
 	{
 		"titolo": "Herbie - 6 Il SuperMaggiolino",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "herbie_6_il_supermaggiolino.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -814,7 +815,7 @@
 	},
 	{
 		"titolo": "I Tre Caballeros",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "i_tre_caballeros.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -825,7 +826,7 @@
 	},
 	{
 		"titolo": "Lilli E Il Vagabondo - 1955",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "lilli_e_il_vagabondo_1955.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -836,7 +837,7 @@
 	},
 	{
 		"titolo": "Lilli e il Vagabondo - 2019",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "lilli_e_il_vagabondo_2019.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -847,7 +848,7 @@
 	},
 	{
 		"titolo": "Nanu,il Figlio della Giungla",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "nanu_il_figlio_della_giungla.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -858,7 +859,7 @@
 	},
 	{
 		"titolo": "Piccole Canaglie Alla Riscossa",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "piccole_canaglie_alla_riscossa.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -869,7 +870,7 @@
 	},
 	{
 		"titolo": "Piccole Canaglie",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "piccole_canaglie.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -880,7 +881,7 @@
 	},
 	{
 		"titolo": "Pinocchio - 1940",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "pinocchio_1940.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -891,7 +892,7 @@
 	},
 	{
 		"titolo": "Quello strano cane di papà",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "quello_strano_cane_di_papa.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -902,7 +903,7 @@
 	},
 	{
 		"titolo": "Saludos Amigos",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "saludos_amigos.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -913,7 +914,7 @@
 	},
 	{
 		"titolo": "Scimmie tornatevene a casa",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "scimmie_tornatevene_a_casa.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -924,7 +925,7 @@
 	},
 	{
 		"titolo": "Dragon Trainer - Il Dono del Drago",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "dragon_trainer_il_dono_del_drago.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -935,7 +936,7 @@
 	},
 	{
 		"titolo": "Dragon Trainer - La Leggenda Del Drago Rubaossa",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "dragon_trainer_la_leggenda_del_drago_rubaossa.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -946,7 +947,7 @@
 	},
 	{
 		"titolo": "Dragon Trainer - Rimpatriata",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "dragon_trainer_rimpatriata.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -957,7 +958,7 @@
 	},
 	{
 		"titolo": "Dragon Trainer",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "dragon_trainer.jpg",
 		"durata": 98,
 		"anno": 2010,
@@ -968,7 +969,7 @@
 	},
 	{
 		"titolo": "Dragon Trainer 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "dragon_trainer_2.jpg",
 		"durata": 102,
 		"anno": 2014,
@@ -979,7 +980,7 @@
 	},
 	{
 		"titolo": "Dragon Trainer 3 - Il Mondo Nascosto",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "dragon_trainer_3_il_mondo_nascosto.jpg",
 		"durata": 104,
 		"anno": 2019,
@@ -990,7 +991,7 @@
 	},
 	{
 		"titolo": "Emoji - Accendi le Emozioni",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "emoji_accendi_le_emozioni.jpg",
 		"durata": 86,
 		"anno": 2017,
@@ -1001,7 +1002,7 @@
 	},
 	{
 		"titolo": "Encanto",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "encanto.jpg",
 		"durata": 99,
 		"anno": 2021,
@@ -1012,7 +1013,7 @@
 	},
 	{
 		"titolo": "Ferdinand",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "ferdinand.jpg",
 		"durata": 108,
 		"anno": 2017,
@@ -1023,7 +1024,7 @@
 	},
 	{
 		"titolo": "Galline In Fuga",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "galline_in_fuga.jpg",
 		"durata": 95,
 		"anno": 2000,
@@ -1034,7 +1035,7 @@
 	},
 	{
 		"titolo": "Giuseppe, il re dei sogni",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "giuseppe_il_re_dei_sogni.jpg",
 		"durata": 75,
 		"anno": 2000,
@@ -1045,7 +1046,7 @@
 	},
 	{
 		"titolo": "Giù per il Tubo",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "giu_per_il_tubo.jpg",
 		"durata": 86,
 		"anno": 2006,
@@ -1056,7 +1057,7 @@
 	},
 	{
 		"titolo": "Gli Aristogatti",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "gli_aristogatti.jpg",
 		"durata": 78,
 		"anno": 1970,
@@ -1067,7 +1068,7 @@
 	},
 	{
 		"titolo": "Gli Eroi Del Natale",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "gli_eroi_del_natale.jpg",
 		"durata": 86,
 		"anno": 2017,
@@ -1078,7 +1079,7 @@
 	},
 	{
 		"titolo": "Gli Incredibili",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "gli_incredibili.jpg",
 		"durata": 115,
 		"anno": 2004,
@@ -1089,7 +1090,7 @@
 	},
 	{
 		"titolo": "Gli Incredibili 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "gli_incredibili_2.jpg",
 		"durata": 126,
 		"anno": 2018,
@@ -1100,7 +1101,7 @@
 	},
 	{
 		"titolo": "Gnomeo e Giulietta",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "gnomeo_e_giulietta.jpg",
 		"durata": 0,
 		"anno": 2011,
@@ -1111,7 +1112,7 @@
 	},
 	{
 		"titolo": "Hercules",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "hercules.jpg",
 		"durata": 0,
 		"anno": 1997,
@@ -1122,7 +1123,7 @@
 	},
 	{
 		"titolo": "Hercules - Il cane di Babbo Natale",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "hercules_il_cane_di_babbo_natale.jpg",
 		"durata": 0,
 		"anno": 2012,
@@ -1133,7 +1134,7 @@
 	},
 	{
 		"titolo": "Hotel Transylvania",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "hotel_transylvania.jpg",
 		"durata": 0,
 		"anno": 2012,
@@ -1144,7 +1145,7 @@
 	},
 	{
 		"titolo": "Hotel Transylvania 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "hotel_transylvania_2.jpg",
 		"durata": 0,
 		"anno": 2015,
@@ -1155,7 +1156,7 @@
 	},		
 	{
 		"titolo": "Hotel Transylvania 3 - Una Vacanza Mostruosa",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "hotel_transylvania_3_una_vacanza_mostruosa.jpg",
 		"durata": 0,
 		"anno": 2018,
@@ -1166,7 +1167,7 @@
 	},
 	{
 		"titolo": "Hotel Transylvania 4 - Uno Scambio Mostruoso",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "hotel_transylvania_4_uno_scambio_mostruoso.jpg",
 		"durata": 0,
 		"anno": 2022,
@@ -1177,7 +1178,7 @@
 	},
 	{
 		"titolo": "I pinguini di Madagascar - La lunga Notte prima di Natale",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "i_pinguini_di_madagascar_la_lunga_notte_prima_di_natale.jpg",
 		"durata": 0,
 		"anno": 2011,
@@ -1188,7 +1189,7 @@
 	},
 	{
 		"titolo": "I pinguini di Madagascar - Missione Impossibile Possibile",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "i_pinguini_di_madagascar_missione_impossibile_possibile.jpg",
 		"durata": 0,
 		"anno": 2011,
@@ -1199,7 +1200,7 @@
 	},
 	{
 		"titolo": "I pinguini di Madagascar - Operazione anatroccolo",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "i_pinguini_di_madagascar_operazione_anatroccolo.jpg",
 		"durata": 0,
 		"anno": 2012,
@@ -1210,7 +1211,7 @@
 	},
 	{
 		"titolo": "I pinguini di Madagascar - Operazione Antartide",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "i_pinguini_di_madagascar_operazione_antartide.jpg",
 		"durata": 0,
 		"anno": 2012,
@@ -1221,7 +1222,7 @@
 	},
 	{
 		"titolo": "I Pinguini di Madagascar - Operazione Vacanze",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "i_pinguini_di_madagascar_operazione_vacanze.jpg",
 		"durata": 0,
 		"anno": 2012,
@@ -1232,7 +1233,7 @@
 	},
 	{
 		"titolo": "I Puffi - Viaggio nella Foresta Segreta",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "i_puffi_viaggio_nella_foresta_segreta.jpg",
 		"durata": 0,
 		"anno": 2017,
@@ -1243,7 +1244,7 @@
 	},
 	{
 		"titolo": "I Robinson - Una Famiglia Spaziale",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "i_robinson_una_famiglia_spaziale.jpg",
 		"durata": 0,
 		"anno": 2007,
@@ -1254,7 +1255,7 @@
 	},
 	{
 		"titolo": "I Tre Moschettieri Topolino,Paperino,Pippo",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "i_tre_moschettieri_topolino_paperino_pippo.jpg",
 		"durata": 0,
 		"anno": 2004,
@@ -1265,7 +1266,7 @@
 	},
 	{
 		"titolo": "I Tre Porcellini E Altre Storie",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "i_tre_porcellini_e_altre_storie.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -1276,7 +1277,7 @@
 	},
 	{
 		"titolo": "Il dottor Dolittle",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_dottor_dolittle.jpg",
 		"durata": 0,
 		"anno": 1998,
@@ -1287,7 +1288,7 @@
 	},
 	{
 		"titolo": "Il Gatto con gli Stivali",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_gatto_con_gli_stivali.jpg",
 		"durata": 0,
 		"anno": 2011,
@@ -1298,7 +1299,7 @@
 	},
 	{
 		"titolo": "Il Gobbo di Notre Dame 2 - Il Segreto della Campana",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_gobbo_di_notre_dame_2_il_segreto_della_campana.jpg",
 		"durata": 0,
 		"anno": 2002,
@@ -1309,7 +1310,7 @@
 	},
 	{
 		"titolo": "Il Gobbo di Notre Dame",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_gobbo_di_notre_dame.jpg",
 		"durata": 0,
 		"anno": 1996,
@@ -1320,7 +1321,7 @@
 	},
 	{
 		"titolo": "Il Libro della Giungla 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_libro_della_giungla_2.jpg",
 		"durata": 0,
 		"anno": 2003,
@@ -1331,7 +1332,7 @@
 	},
 	{
 		"titolo": "Il Libro della Giungla",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_libro_della_giungla.jpg",
 		"durata": 0,
 		"anno": 2016,
@@ -1342,7 +1343,7 @@
 	},
 	{
 		"titolo": "Il Piccolo Yeti",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_piccolo_yeti.jpg",
 		"durata": 0,
 		"anno": 2019,
@@ -1353,7 +1354,7 @@
 	},
 	{
 		"titolo": "Il Principe d'Egitto",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_principe_d_egitto.jpg",
 		"durata": 0,
 		"anno": 1998,
@@ -1364,7 +1365,7 @@
 	},
 	{
 		"titolo": "Il Piccolo Principe",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_piccolo_principe.jpg",
 		"durata": 110,
 		"anno": 2015,
@@ -1375,7 +1376,7 @@
 	},
 	{
 		"titolo": "Il Re Leone",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_re_leone.jpg",
 		"durata": 0,
 		"anno": 1994,
@@ -1386,7 +1387,7 @@
 	},
 	{
 		"titolo": "Il Re Leone 2 - Il Regno di Simba",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_re_leone_2_il_regno_di_simba.jpg",
 		"durata": 0,
 		"anno": 1998,
@@ -1397,7 +1398,7 @@
 	},
 	{
 		"titolo": "Il Re Leone 3 - Hakuna Matata",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_re_leone_3_hakuna_matata.jpg",
 		"durata": 0,
 		"anno": 2004,
@@ -1408,7 +1409,7 @@
 	},
 	{
 		"titolo": "Il Segreto Di Babbo Natale",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_segreto_di_babbo_natale.jpg",
 		"durata": 0,
 		"anno": 2013,
@@ -1419,7 +1420,7 @@
 	},
 	{
 		"titolo": "Inside Out",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "inside_out.jpg",
 		"durata": 95,
 		"anno": 2015,
@@ -1430,7 +1431,7 @@
 	},
 	{
 		"titolo": "Koda fratello Orso 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "koda_fratello_orso_2.jpg",
 		"durata": 0,
 		"anno": 2006,
@@ -1441,7 +1442,7 @@
 	},
 	{
 		"titolo": "Koda fratello Orso",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "koda_fratello_orso.jpg",
 		"durata": 0,
 		"anno": 2003,
@@ -1452,7 +1453,7 @@
 	},
 	{
 		"titolo": "Kung Fu Panda",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "kung_fu_panda.jpg",
 		"durata": 0,
 		"anno": 2008,
@@ -1463,7 +1464,7 @@
 	},
 	{
 		"titolo": "Kung Fu Panda 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "kung_fu_panda_2.jpg",
 		"durata": 0,
 		"anno": 2011,
@@ -1474,7 +1475,7 @@
 	},
 	{
 		"titolo": "Kung Fu Panda 3",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "kung_fu_panda_3.jpg",
 		"durata": 0,
 		"anno": 2016,
@@ -1485,7 +1486,7 @@
 	},
 	{
 		"titolo": "L'Era Glaciale 1",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "l_era_glaciale_1.jpg",
 		"durata": 0,
 		"anno": 2000,
@@ -1496,7 +1497,7 @@
 	},
 	{
 		"titolo": "L'Era Glaciale 2 - Il Disgelo",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "l_era_glaciale_2_il_disgelo.jpg",
 		"durata": 0,
 		"anno": 2006,
@@ -1507,7 +1508,7 @@
 	},
 	{
 		"titolo": "L'Era Glaciale 3 - L'alba Dei Dinosauri",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "l_era_glaciale_3_l_alba_dei_dinosauri.jpg",
 		"durata": 0,
 		"anno": 2009,
@@ -1518,7 +1519,7 @@
 	},
 	{
 		"titolo": "L'Era Glaciale 4 - Continenti alla Deriva",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "l_era_glaciale_4_continenti_alla_deriva.jpg",
 		"durata": 0,
 		"anno": 2012,
@@ -1529,7 +1530,7 @@
 	},
 	{
 		"titolo": "L'Era Glaciale 5 - In Rotta di Collisione",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "l_era_glaciale_5_in_rotta_di_collisione.jpg",
 		"durata": 0,
 		"anno": 2016,
@@ -1540,7 +1541,7 @@
 	},
 	{
 		"titolo": "L'Era Glaciale - Le Avventure di Buck",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "l_era_glaciale_le_avventure_di_buck.jpg",
 		"durata": 0,
 		"anno": 2022,
@@ -1551,7 +1552,7 @@
 	},
 	{
 		"titolo": "L'Era Natale",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "l_era_natale.jpg",
 		"durata": 0,
 		"anno": 2011,
@@ -1562,7 +1563,7 @@
 	},
 	{
 		"titolo": "La Bella Addormentata Nel Bosco",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "la_bella_addormentata_nel_bosco.jpg",
 		"durata": 0,
 		"anno": 1959,
@@ -1573,7 +1574,7 @@
 	},
 	{
 		"titolo": "La Carica Dei 101",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "la_carica_dei_101.jpg",
 		"durata": 0,
 		"anno": 1961,
@@ -1584,7 +1585,7 @@
 	},
 	{
 		"titolo": "La Carica Dei 101 II - Macchia Un Eroe A Londra",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "la_carica_dei_101_ii_macchia_un_eroe_a_londra.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -1595,7 +1596,7 @@
 	},
 	{
 		"titolo": "La Freccia Azzurra",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "la_freccia_azzurra.jpg",
 		"durata": 0,
 		"anno": 1996,
@@ -1606,7 +1607,7 @@
 	},
 	{
 		"titolo": "La Gabbianella e il Gatto",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "la_gabbianella_e_il_gatto.jpg",
 		"durata": 0,
 		"anno": 1998,
@@ -1617,7 +1618,7 @@
 	},
 	{
 		"titolo": "La Sirenetta 2 - Ritorno agli Abissi",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "la_sirenetta_2_ritorno_agli_abissi.jpg",
 		"durata": 0,
 		"anno": 2000,
@@ -1628,7 +1629,7 @@
 	},
 	{
 		"titolo": "La Spada Magica - Alla Ricerca di Camelot",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "la_spada_magica_alla_ricerca_di_camelot.jpg",
 		"durata": 0,
 		"anno": 1998,
@@ -1639,7 +1640,7 @@
 	},
 	{
 		"titolo": "La Spada Nella Roccia",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "la_spada_nella_roccia.jpg",
 		"durata": 0,
 		"anno": 1963,
@@ -1650,7 +1651,7 @@
 	},
 	{
 		"titolo": "Le 5 Leggende",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "le_5_leggende.jpg",
 		"durata": 0,
 		"anno": 2012,
@@ -1661,7 +1662,7 @@
 	},
 	{
 		"titolo": "Le Avventure di Bianca e Bernie",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "le_avventure_di_bianca_e_bernie.jpg",
 		"durata": 0,
 		"anno": 1977,
@@ -1672,7 +1673,7 @@
 	},
 	{
 		"titolo": "Le follie dell'Imperatore",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "le_follie_dell_imperatore.jpg",
 		"durata": 0,
 		"anno": 2000,
@@ -1683,7 +1684,7 @@
 	},
 	{
 		"titolo": "LEGO Jurassic World",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "lego_jurassic_world.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -1694,7 +1695,7 @@
 	},
 	{
 		"titolo": "LEGO Marvel Super Heroes 2 - Il ritorno degli Avengers",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "lego_marvel_super_heroes_2_il_ritorno_degli_avengers.jpg",
 		"durata": 0,
 		"anno": 2013,
@@ -1705,7 +1706,7 @@
 	},
 	{
 		"titolo": "LEGO Marvel Super Heroes 4 - Black Panther",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "lego_marvel_super_heroes_4_black_panther.jpg",
 		"durata": 0,
 		"anno": 2013,
@@ -1716,7 +1717,7 @@
 	},
 	{
 		"titolo": "LEGO Marvel Super Heroes 5 - Vexed By Venom",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "lego_marvel_super_heroes_5_vexed_by_venom.jpg",
 		"durata": 0,
 		"anno": 2013,
@@ -1727,7 +1728,7 @@
 	},
 	{
 		"titolo": "LEGO Movie 2 - Una nuova avventura",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "lego_movie_2_una_nuova_avventura.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -1738,7 +1739,7 @@
 	},
 	{
 		"titolo": "LEGO Movie",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "lego_movie.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -1749,7 +1750,7 @@
 	},
 	{
 		"titolo": "LEGO Ninjago il Film",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "lego_ninjago_il_film.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -1760,7 +1761,7 @@
 	},
 	{
 		"titolo": "LEGO Star Wars - La Trilogia",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "lego_star_wars_la_trilogia.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -1771,7 +1772,7 @@
 	},
 	{
 		"titolo": "Luce - Accendi il tuo coraggio",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "luce_accendi_il_tuo_coraggio.jpg",
 		"durata": 0,
 		"anno": 2022,
@@ -1782,7 +1783,7 @@
 	},
 	{
 		"titolo": "Lucky Luke e la grande fuga dei Dalton",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "lucky_luke_e_la_grande_fuga_dei_dalton.jpg",
 		"durata": 0,
 		"anno": 2007,
@@ -1793,7 +1794,7 @@
 	},
 	{
 		"titolo": "Madagascar",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "madagascar.jpg",
 		"durata": 0,
 		"anno": 2005,
@@ -1804,7 +1805,7 @@
 	},
 	{
 		"titolo": "Madagascar 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "madagascar_2.jpg",
 		"durata": 0,
 		"anno": 2008,
@@ -1815,7 +1816,7 @@
 	},
 	{
 		"titolo": "Madagascar 3 - Ricercati in Europa",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "madagascar_3_ricercati_in_europa.jpg",
 		"durata": 0,
 		"anno": 2012,
@@ -1826,7 +1827,7 @@
 	},
 	{
 		"titolo": "Mary Poppins",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "mary_poppins.jpg",
 		"durata": 0,
 		"anno": 1964,
@@ -1837,7 +1838,7 @@
 	},
 	{
 		"titolo": "Matilda 6 mitica",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "matilda_6_mitica.jpg",
 		"durata": 0,
 		"anno": 1996,
@@ -1848,7 +1849,7 @@
 	},
 	{
 		"titolo": "Monsters and Co",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "monsters_and_co.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -1859,7 +1860,7 @@
 	},
 	{
 		"titolo": "Monsters University",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "monsters_university.jpg",
 		"durata": 0,
 		"anno": 2013,
@@ -1870,7 +1871,7 @@
 	},
 	{
 		"titolo": "Mucche Alla Riscossa",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "mucche_alla_riscossa.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -1881,7 +1882,7 @@
 	},
 	{
 		"titolo": "Mulan",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "mulan.jpg",
 		"durata": 88,
 		"anno": 1998,
@@ -1892,7 +1893,7 @@
 	},
 	{
 		"titolo": "Mulan 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "mulan_2.jpg",
 		"durata": 79,
 		"anno": 2004,
@@ -1903,7 +1904,7 @@
 	},
 	{
 		"titolo": "Nome in codice - brutto anatroccolo",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "nome_in_codice_brutto_anatroccolo.jpg",
 		"durata": 0,
 		"anno": 2006,
@@ -1914,7 +1915,7 @@
 	},
 	{
 		"titolo": "Oceania",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "oceania.jpg",
 		"durata": 107,
 		"anno": 2016,
@@ -1925,7 +1926,7 @@
 	},
 	{
 		"titolo": "Onward - Oltre la magia",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "onward_oltre_la_magia.jpg",
 		"durata": 102,
 		"anno": 2020,
@@ -1936,7 +1937,7 @@
 	},
 	{
 		"titolo": "Ozzy Cane Coraggioso",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "ozzy_cane_coraggioso.jpg",
 		"durata": 0,
 		"anno": 2016,
@@ -1947,7 +1948,7 @@
 	},
 	{
 		"titolo": "Le Avventure di Peter Pan",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "le_avventure_di_peter_pan.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -1958,7 +1959,7 @@
 	},
 	{
 		"titolo": "Pets,Vita Da Animali",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "pets_vita_da_animali.jpg",
 		"durata": 0,
 		"anno": 2016,
@@ -1969,7 +1970,7 @@
 	},
 	{
 		"titolo": "Pets 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "pets_2.jpg",
 		"durata": 0,
 		"anno": 2019,
@@ -1980,7 +1981,7 @@
 	},
 	{
 		"titolo": "Pinocchio - Benigni",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "pinocchio_benigni.jpg",
 		"durata": 0,
 		"anno": 2019,
@@ -1991,7 +1992,7 @@
 	},
 	{
 		"titolo": "Piovono Polpette 2 - La rivincita degli Avanzi",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "piovono_polpette_2_la_rivincita_degli_avanzi.jpg",
 		"durata": 0,
 		"anno": 2013,
@@ -2002,7 +2003,7 @@
 	},
 	{
 		"titolo": "Piovono Polpette",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "piovono_polpette.jpg",
 		"durata": 0,
 		"anno": 2009,
@@ -2013,7 +2014,7 @@
 	},
 	{
 		"titolo": "Planes",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "planes.jpg",
 		"durata": 0,
 		"anno": 2013,
@@ -2024,7 +2025,7 @@
 	},
 	{
 		"titolo": "Planes 2 - Missione Antincendio",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "planes_2_missione_antincendio.jpg",
 		"durata": 0,
 		"anno": 2014,
@@ -2035,7 +2036,7 @@
 	},
 	{
 		"titolo": "Ploi",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "ploi.jpg",
 		"durata": 0,
 		"anno": 2019,
@@ -2046,7 +2047,7 @@
 	},
 	{
 		"titolo": "Pocahontas",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "pocahontas.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2057,7 +2058,7 @@
 	},
 	{
 		"titolo": "Pocahontas 2 - Viaggio nel nuovo mondo",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "pocahontas_2_viaggio_nel_nuovo_mondo.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2068,7 +2069,7 @@
 	},
 	{
 		"titolo": "Pokemon - Detective Pikachu",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "pokemon_detective_pikachu.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2079,7 +2080,7 @@
 	},
 	{
 		"titolo": "Ralph Spaccatutto",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "ralph_spaccatutto.jpg",
 		"durata": 108,
 		"anno": 2012,
@@ -2090,7 +2091,7 @@
 	},
 	{
 		"titolo": "Ralph Spacca Internet",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "ralph_spacca_internet.jpg",
 		"durata": 112,
 		"anno": 2018,
@@ -2101,7 +2102,7 @@
 	},
 	{
 		"titolo": "Ratatouille",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "ratatouille.jpg",
 		"durata": 111,
 		"anno": 2007,
@@ -2112,7 +2113,7 @@
 	},
 	{
 		"titolo": "Raya e l'Ultimo Drago",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "raya_e_l_ultimo_drago.jpg",
 		"durata": 107,
 		"anno": 2021,
@@ -2123,7 +2124,7 @@
 	},
 	{
 		"titolo": "Red e Toby Nemiciamici 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "red_e_toby_nemiciamici_2.jpg",
 		"durata": 0,
 		"anno": 2006,
@@ -2134,7 +2135,7 @@
 	},
 	{
 		"titolo": "Red e Toby NemiciAmici",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "red_e_toby_nemiciamici.jpg",
 		"durata": 0,
 		"anno": 1981,
@@ -2145,7 +2146,7 @@
 	},
 	{
 		"titolo": "Rex - Un cucciolo a palazzo",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "rex_un_cucciolo_a_palazzo.jpg",
 		"durata": 0,
 		"anno": 2019,
@@ -2156,7 +2157,7 @@
 	},
 	{
 		"titolo": "Rio",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "rio.jpg",
 		"durata": 0,
 		"anno": 2011,
@@ -2167,7 +2168,7 @@
 	},
 	{
 		"titolo": "Rio 2 - Missione Amazzonia",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "rio_2_missione_amazzonia.jpg",
 		"durata": 0,
 		"anno": 2014,
@@ -2178,7 +2179,7 @@
 	},
 	{
 		"titolo": "Robin Hood",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "robin_hood.jpg",
 		"durata": 0,
 		"anno": 1973,
@@ -2189,7 +2190,7 @@
 	},
 	{
 		"titolo": "Ron, un Amico Fuori Programma",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "ron_un_amico_fuori_programma.jpg",
 		"durata": 0,
 		"anno": 2021,
@@ -2200,7 +2201,7 @@
 	},
 	{
 		"titolo": "Scrooge - Canto di Natale",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "scrooge_canto_di_natale.jpg",
 		"durata": 0,
 		"anno": 2022,
@@ -2211,7 +2212,7 @@
 	},
 	{
 		"titolo": "Sherlock Gnomes",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "sherlock_gnomes.jpg",
 		"durata": 86,
 		"anno": 2018,
@@ -2222,7 +2223,7 @@
 	},
 	{
 		"titolo": "Shrek",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "shrek.jpg",
 		"durata": 90,
 		"anno": 2001,
@@ -2233,7 +2234,7 @@
 	},
 	{
 		"titolo": "Shrek 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "shrek_2.jpg",
 		"durata": 105,
 		"anno": 2004,
@@ -2244,7 +2245,7 @@
 	},
 	{
 		"titolo": "Shrek Terzo",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "shrek_terzo.jpg",
 		"durata": 93,
 		"anno": 2007,
@@ -2255,7 +2256,7 @@
 	},
 	{
 		"titolo": "Shrekkati per le feste",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "shrekkati_per_le_feste.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2266,7 +2267,7 @@
 	},
 	{
 		"titolo": "Sinbad - La leggenda dei 7 mari",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "sinbad_la_leggenda_dei_7_mari.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2277,7 +2278,7 @@
 	},
 	{
 		"titolo": "Sing 2 - Sempre più forte",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "sing_2_sempre_piu_forte.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2288,7 +2289,7 @@
 	},
 	{
 		"titolo": "Sing",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "sing.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2299,7 +2300,7 @@
 	},
 	{
 		"titolo": "Space Jam",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "space_jam.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2310,7 +2311,7 @@
 	},
 	{
 		"titolo": "Spie sotto copertura",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "spie_sotto_copertura.jpg",
 		"durata": 0,
 		"anno": 2019,
@@ -2321,7 +2322,7 @@
 	},
 	{
 		"titolo": "Stuart Little - Un topolino in gamba",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "stuart_little_un_topolino_in_gamba.jpg",
 		"durata": 0,
 		"anno": 1999,
@@ -2332,7 +2333,7 @@
 	},
 	{
 		"titolo": "Taron e la Pentola Magica",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "taron_e_la_pentola_magica.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2343,7 +2344,7 @@
 	},
 	{
 		"titolo": "Tarzan",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "tarzan.jpg",
 		"durata": 0,
 		"anno": 1999,
@@ -2354,7 +2355,7 @@
 	},
 	{
 		"titolo": "Topolino - Il Principe e il Povero",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "topolino_il_principe_e_il_povero.jpg",
 		"durata": 0,
 		"anno": 2014,
@@ -2365,7 +2366,7 @@
 	},
 	{
 		"titolo": "Toy Story 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "toy_story_2.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2376,7 +2377,7 @@
 	},
 	{
 		"titolo": "Toy Story 3",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "toy_story_3.jpg",
 		"durata": 103,
 		"anno": 2010,
@@ -2387,7 +2388,7 @@
 	},
 	{
 		"titolo": "Toy Story 4",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "toy_story_4.jpg",
 		"durata": 100,
 		"anno": 2019,
@@ -2398,7 +2399,7 @@
 	},
 	{
 		"titolo": "Toy Story",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "toy_story.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2409,7 +2410,7 @@
 	},
 	{
 		"titolo": "Trilli E Il Tesoro Perduto",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "trilli_e_il_tesoro_perduto.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2420,7 +2421,7 @@
 	},
 	{
 		"titolo": "Trilli",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "trilli.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2431,7 +2432,7 @@
 	},
 	{
 		"titolo": "Trolls World Tour",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "trolls_world_tour.jpg",
 		"durata": 0,
 		"anno": 2020,
@@ -2442,7 +2443,7 @@
 	},
 	{
 		"titolo": "Troppo Cattivi",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "troppo_cattivi.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2453,7 +2454,7 @@
 	},
 	{
 		"titolo": "Turbo",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "turbo.jpg",
 		"durata": 0,
 		"anno": 2013,
@@ -2464,7 +2465,7 @@
 	},
 	{
 		"titolo": "Ulisse",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "ulisse.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2475,7 +2476,7 @@
 	},
 	{
 		"titolo": "Una notte museo - La Vendetta di Kahmunrah",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "una_notte_museo_la_vendetta_di_kahmunrah.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2486,7 +2487,7 @@
 	},
 	{
 		"titolo": "Up",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "up.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2497,7 +2498,7 @@
 	},
 	{
 		"titolo": "Vita da Giungla alla Riscossa - Il Film",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "vita_da_giungla_alla_riscossa_il_film.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2508,7 +2509,7 @@
 	},
 	{
 		"titolo": "Wall E",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "wall_e.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2519,7 +2520,7 @@
 	},
 	{
 		"titolo": "Winnie the Pooh - Nuove avventure nel bosco dei 100 acri",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "winnie_the_pooh_nuove_avventure_nel_bosco_dei_100_acri.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2530,7 +2531,7 @@
 	},
 	{
 		"titolo": "Zootropolis",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "zootropolis.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2541,7 +2542,7 @@
 	},
 	{
 		"titolo": "Attacco al Potere - Olympus has fallen",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "attacco_al_potere_olympus_has_fallen.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2552,7 +2553,7 @@
 	},
 	{
 		"titolo": "Attacco al Potere 2 - London has fallen",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "attacco_al_potere_2_london_has_fallen.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2563,7 +2564,7 @@
 	},
 	{
 		"titolo": "Attacco al Potere 3 - Angel has fallen",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "attacco_al_potere_3_angel_has_fallen.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2574,7 +2575,7 @@
 	},
 	{
 		"titolo": "Horrible Bosses",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "horrible_bosses.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2585,7 +2586,7 @@
 	},
 	{
 		"titolo": "I Guardiani del Destino",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "i_guardiani_del_destino.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2596,7 +2597,7 @@
 	},
 	{
 		"titolo": "Matrix",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "matrix.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2607,7 +2608,7 @@
 	},
 	{
 		"titolo": "Quella Sporca Dozzina",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "quella_sporca_dozzina.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2618,7 +2619,7 @@
 	},
 	{
 		"titolo": "Real Steel - Cuori d'Acciaio",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "real_steel_cuori_d_acciaio.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2629,7 +2630,7 @@
 	},
 	{
 		"titolo": "Sniper 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "sniper_2.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2640,7 +2641,7 @@
 	},
 	{
 		"titolo": "Tropa de Elitee 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "tropa_de_elitee_2.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2651,7 +2652,7 @@
 	},
 	{
 		"titolo": "Bent- Polizia Criminale",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "bent_polizia_criminale.jpg",
 		"durata": 0,
 		"anno": 2018,
@@ -2662,7 +2663,7 @@
 	},
 	{
 		"titolo": "Bianco,Rosso e Verdone",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "bianco_rosso_e_verdone.jpg",
 		"durata": 0,
 		"anno": 1980,
@@ -2673,7 +2674,7 @@
 	},
 	{
 		"titolo": "The Bourne Identity",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "the_bourne_identity.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2684,7 +2685,7 @@
 	},
 	{
 		"titolo": "Bright",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "bright.jpg",
 		"durata": 0,
 		"anno": 2017,
@@ -2695,7 +2696,7 @@
 	},
 	{
 		"titolo": "Altrimenti Ci Arrabbiamo!",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "altrimenti_ci_arrabbiamo!.jpg",
 		"durata": 101,
 		"anno": 1974,
@@ -2706,7 +2707,7 @@
 	},
 	{
 		"titolo": "Anche gli angeli mangiano fagioli",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "anche_gli_angeli_mangiano_fagioli.jpg",
 		"durata": 123,
 		"anno": 1973,
@@ -2717,7 +2718,7 @@
 	},
 	{
 		"titolo": "Banana Joe",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "banana_joe.jpg",
 		"durata": 96,
 		"anno": 1982,
@@ -2728,7 +2729,7 @@
 	},
 	{
 		"titolo": "Bomber",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "bomber.jpg",
 		"durata": 101,
 		"anno": 1982,
@@ -2739,7 +2740,7 @@
 	},
 	{
 		"titolo": "Botte di Natale",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "botte_di_natale.jpg",
 		"durata": 107,
 		"anno": 1994,
@@ -2750,7 +2751,7 @@
 	},
 	{
 		"titolo": "Cane e Gatto",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "cane_e_gatto.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2761,7 +2762,7 @@
 	},
 	{
 		"titolo": "Charleston",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "charleston.jpg",
 		"durata": 105,
 		"anno": 1977,
@@ -2772,7 +2773,7 @@
 	},
 	{
 		"titolo": "Chi Trova Un Amico Trova Un Tesoro",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "chi_trova_un_amico_trova_un_tesoro.jpg",
 		"durata": 108,
 		"anno": 1981,
@@ -2783,7 +2784,7 @@
 	},
 	{
 		"titolo": "Chissà perché capitano tutte a me",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "chissa_perche_capitano_tutte_a_me.jpg",
 		"durata": 87,
 		"anno": 1980,
@@ -2794,7 +2795,7 @@
 	},
 	{
 		"titolo": "Continuavano a chiamarlo Trinità",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "continuavano_a_chiamarlo_trinita.jpg",
 		"durata": 117,
 		"anno": 1970,
@@ -2805,7 +2806,7 @@
 	},
 	{
 		"titolo": "Dio perdona io no",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "dio_perdona_io_no.jpg",
 		"durata": 109,
 		"anno": 1967,
@@ -2816,7 +2817,7 @@
 	},
 	{
 		"titolo": "I quattro dell'Ave Maria",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "i_quattro_dell_ave_maria.jpg",
 		"durata": 137,
 		"anno": 1968,
@@ -2827,7 +2828,7 @@
 	},
 	{
 		"titolo": "La collina degli stivali",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "la_collina_degli_stivali.jpg",
 		"durata": 87,
 		"anno": 1969,
@@ -2838,7 +2839,7 @@
 	},
 	{
 		"titolo": "La collina dei conigli",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "la_collina_dei_conigli.jpg",
 		"durata": 0,
 		"anno": 1978,
@@ -2849,7 +2850,7 @@
 	},
 	{
 		"titolo": "Lucky Luke - La ballata dei Dalton",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "lucky_luke_la_ballata_dei_dalton.jpg",
 		"durata": 0,
 		"anno": 1978,
@@ -2860,7 +2861,7 @@
 	},
 	{
 		"titolo": "Renegade,un osso troppo duro",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "renegade_un_osso_troppo_duro.jpg",
 		"durata": 0,
 		"anno": 1987,
@@ -2871,7 +2872,7 @@
 	},
 	{
 		"titolo": "Si può fare amigo",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "si_puo_fare_amigo.jpg",
 		"durata": 109,
 		"anno": 1972,
@@ -2882,7 +2883,7 @@
 	},
 	{
 		"titolo": "Un genio, due compari e un pollo",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "un_genio_due_compari_e_un_pollo.jpg",
 		"durata": 0,
 		"anno": 1975,
@@ -2893,7 +2894,7 @@
 	},
 	{
 		"titolo": "Un_esercito_di_5_uomini",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "un_esercito_di_5_uomini.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -2904,7 +2905,7 @@
 	},
 	{
 		"titolo": "Una ragione per vivere e una per morire",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "una_ragione_per_vivere_e_una_per_morire.jpg",
 		"durata": 119,
 		"anno": 1972,
@@ -2915,7 +2916,7 @@
 	},
 	{
 		"titolo": "I Due Superpiedi Quasi Piatti",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "i_due_superpiedi_quasi_piatti.jpg",
 		"durata": 115,
 		"anno": 1977,
@@ -2926,7 +2927,7 @@
 	},
 	{
 		"titolo": "Il Mio Nome è Thomas",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_mio_nome_e_thomas.jpg",
 		"durata": 0,
 		"anno": 2018,
@@ -2937,7 +2938,7 @@
 	},
 	{
 		"titolo": "Io Sto Con Gli Ippopotami",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "io_sto_con_gli_ippopotami.jpg",
 		"durata": 108,
 		"anno": 1979,
@@ -2948,7 +2949,7 @@
 	},
 	{
 		"titolo": "Lo Chiamavano Bulldozer",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "lo_chiamavano_bulldozer.jpg",
 		"durata": 110,
 		"anno": 1978,
@@ -2959,7 +2960,7 @@
 	},
 	{
 		"titolo": "Lo Chiamavano Trinità",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "lo_chiamavano_trinita.jpg",
 		"durata": 0,
 		"anno": 1970,
@@ -2970,7 +2971,7 @@
 	},
 	{
 		"titolo": "Miami Supercops",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "miami_supercops.jpg",
 		"durata": 96,
 		"anno": 1985,
@@ -2981,7 +2982,7 @@
 	},
 	{
 		"titolo": "Nati con la camicia",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "nati_con_la_camicia.jpg",
 		"durata": 107,
 		"anno": 1983,
@@ -2992,7 +2993,7 @@
 	},
 	{
 		"titolo": "Non c'è 2 senza 4",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "non_c_e_2_senza_4.jpg",
 		"durata": 104,
 		"anno": 1984,
@@ -3003,7 +3004,7 @@
 	},
 	{
 		"titolo": "Oggi a me domani a te",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "oggi_a_me_domani_a_te.jpg",
 		"durata": 0,
 		"anno": 1968,
@@ -3014,7 +3015,7 @@
 	},
 	{
 		"titolo": "Pari e Dispari",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "pari_e_dispari.jpg",
 		"durata": 104,
 		"anno": 1978,
@@ -3025,7 +3026,7 @@
 	},
 	{
 		"titolo": "Piedone a Hong Kong",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "piedone_a_hong_kong.jpg",
 		"durata": 115,
 		"anno": 1975,
@@ -3036,7 +3037,7 @@
 	},
 	{
 		"titolo": "Piedone d'Egitto",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "piedone_d_egitto.jpg",
 		"durata": 104,
 		"anno": 1980,
@@ -3047,7 +3048,7 @@
 	},
 	{
 		"titolo": "Piedone l'Africano",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "piedone_l_africano.jpg",
 		"durata": 115,
 		"anno": 1978,
@@ -3058,7 +3059,7 @@
 	},
 	{
 		"titolo": "Piedone lo sbirro",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "piedone_lo_sbirro.jpg",
 		"durata": 99,
 		"anno": 1973,
@@ -3069,7 +3070,7 @@
 	},
 	{
 		"titolo": "Più Forte Ragazzi!",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "piu_forte_ragazzi.jpg",
 		"durata": 122,
 		"anno": 1973,
@@ -3080,7 +3081,7 @@
 	},
 	{
 		"titolo": "Poliziotto Superpiù",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "poliziotto_superpiu.jpg",
 		"durata": 0,
 		"anno": 1980,
@@ -3091,7 +3092,7 @@
 	},
 	{
 		"titolo": "Porgi l'altra guancia",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "porgi_l_altra_guancia.jpg",
 		"durata": 89,
 		"anno": 1974,
@@ -3102,7 +3103,7 @@
 	},
 	{
 		"titolo": "Superfantagenio",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "superfantagenio.jpg",
 		"durata": 95,
 		"anno": 1986,
@@ -3113,7 +3114,7 @@
 	},
 	{
 		"titolo": "Un Piede In Paradiso",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "un_piede_in_paradiso.jpg",
 		"durata": 99,
 		"anno": 1991,
@@ -3124,7 +3125,7 @@
 	},
 	{
 		"titolo": "Uno sceriffo extraterrestre,poco extra e molto terrestre",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "uno_sceriffo_extraterrestre_poco_extra_e_molto_terrestre.jpg",
 		"durata": 95,
 		"anno": 1979,
@@ -3135,7 +3136,7 @@
 	},
 	{
 		"titolo": "Elf,Un Elfo Di Nome Buddy",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "elf_un_elfo_di_nome_buddy.jpg",
 		"durata": 0,
 		"anno": 2003,
@@ -3146,7 +3147,7 @@
 	},
 	{
 		"titolo": "Ispettore Gadget",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "ispettore_gadget.jpg",
 		"durata": 0,
 		"anno": 1999,
@@ -3157,7 +3158,7 @@
 	},
 	{
 		"titolo": "Missione Tata",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "missione_tata.jpg",
 		"durata": 0,
 		"anno": 2005,
@@ -3168,7 +3169,7 @@
 	},
 	{
 		"titolo": "Mrs Doubtfire",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "mrs_doubtfire.jpg",
 		"durata": 0,
 		"anno": 1993,
@@ -3179,7 +3180,7 @@
 	},
 	{
 		"titolo": "Una notte al museo 2 - La fuga",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "una_notte_al_museo_2_la_fuga.jpg",
 		"durata": 0,
 		"anno": 2009,
@@ -3190,7 +3191,7 @@
 	},
 	{
 		"titolo": "Una notte al museo 3 - Il segreto del faraone",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "una_notte_al_museo_3_il_segreto_del_faraone.jpg",
 		"durata": 0,
 		"anno": 2014,
@@ -3201,7 +3202,7 @@
 	},
 	{
 		"titolo": "Una notte al museo",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "una_notte_al_museo.jpg",
 		"durata": 0,
 		"anno": 2006,
@@ -3212,7 +3213,7 @@
 	},
 	{
 		"titolo": "2_Fast_2_Furious",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "2_fast_2_furious.jpg",
 		"durata": 0,
 		"anno": 2003,
@@ -3223,7 +3224,7 @@
 	},
 	{
 		"titolo": "Fast and Furious 9 - The Fast Saga",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "fast_and_furious_9_the_fast_saga.jpg",
 		"durata": 0,
 		"anno": 2021,
@@ -3234,7 +3235,7 @@
 	},
 	{
 		"titolo": "Fast and Furious",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "fast_and_furious.jpg",
 		"durata": 0,
 		"anno": 2001,
@@ -3245,7 +3246,7 @@
 	},
 	{
 		"titolo": "Fast and furious 6",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "fast_and_furious_6.jpg",
 		"durata": 0,
 		"anno": 2013,
@@ -3256,7 +3257,7 @@
 	},
 	{
 		"titolo": "Fast and Furious 7",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "fast_and_furious_7.jpg",
 		"durata": 0,
 		"anno": 2015,
@@ -3267,7 +3268,7 @@
 	},
 	{
 		"titolo": "Fast_and_Furious_8",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "fast_and_furious_8.jpg",
 		"durata": 0,
 		"anno": 2017,
@@ -3278,7 +3279,7 @@
 	},
 	{
 		"titolo": "Fast and Furious - Hobbs and Shaw",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "fast_and_furious_hobbs_and_shaw.jpg",
 		"durata": 0,
 		"anno": 2019,
@@ -3289,7 +3290,7 @@
 	},
 	{
 		"titolo": "Fast and Furious 5",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "fast_and_furious_5.jpg",
 		"durata": 0,
 		"anno": 2011,
@@ -3300,7 +3301,7 @@
 	},
 	{
 		"titolo": "Fast and Furious 4 - Solo Parti Originali",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "fast_and_furious_4_solo_parti_originali.jpg",
 		"durata": 0,
 		"anno": 2009,
@@ -3311,7 +3312,7 @@
 	},
 	{
 		"titolo": "Fast and Furious 3 - Tokyo Drift",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "fast_and_furious_3_tokyo_drift.jpg",
 		"durata": 0,
 		"anno": 2006,
@@ -3322,7 +3323,7 @@
 	},
 	{
 		"titolo": "Femmine contro maschi",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "femmine_contro_maschi.jpg",
 		"durata": 0,
 		"anno": 2011,
@@ -3333,7 +3334,7 @@
 	},
 	{
 		"titolo": "Final Examination",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "final_examination.jpg",
 		"durata": 0,
 		"anno": 2002,
@@ -3344,7 +3345,7 @@
 	},
 	{
 		"titolo": "Harry Potter e la Pietra Filosofale",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "harry_potter_e_la_pietra_filosofale.jpg",
 		"durata": 0,
 		"anno": 2001,
@@ -3355,7 +3356,7 @@
 	},
 	{
 		"titolo": "Harry Potter e la Camera dei Segreti",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "harry_potter_e_la_camera_dei_segreti.jpg",
 		"durata": 0,
 		"anno": 2002,
@@ -3366,7 +3367,7 @@
 	},
 	{
 		"titolo": "Harry Potter e Il Prigioniero di Azkaban",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "harry_potter_e_il_prigioniero_di_azkaban.jpg",
 		"durata": 0,
 		"anno": 2004,
@@ -3377,7 +3378,7 @@
 	},
 	{
 		"titolo": "Harry Potter e Il Calice di Fuoco",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "harry_potter_e_il_calice_di_fuoco.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -3388,7 +3389,7 @@
 	},
 	{
 		"titolo": "Harry Potter e l'Ordine della Fenice",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "harry_potter_e_l_ordine_della_fenice.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -3399,7 +3400,7 @@
 	},
 	{
 		"titolo": "Harry Potter e il Principe Mezzosangue",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "harry_potter_e_il_principe_mezzosangue.jpg",
 		"durata": 0,
 		"anno": 2009,
@@ -3410,7 +3411,7 @@
 	},
 	{
 		"titolo": "Harry Potter e i Doni della Morte - Parte 1",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "harry_potter_e_i_doni_della_morte_parte_1.jpg",
 		"durata": 0,
 		"anno": 2010,
@@ -3421,7 +3422,7 @@
 	},
 	{
 		"titolo": "Harry Potter e i Doni della Morte - Parte 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "harry_potter_e_i_doni_della_morte_parte_2.jpg",
 		"durata": 0,
 		"anno": 2011,
@@ -3432,7 +3433,7 @@
 	},
 	{
 		"titolo": "Il 7 e l'8",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_7_e_l_8.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -3443,7 +3444,7 @@
 	},
 	{
 		"titolo": "Il bambino con il pigiama a righe",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_bambino_con_il_pigiama_a_righe.jpg",
 		"durata": 0,
 		"anno": 2008,
@@ -3454,7 +3455,7 @@
 	},
 	{
 		"titolo": "Il Figlio Di Babbo Natale",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_figlio_di_babbo_natale.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -3465,7 +3466,7 @@
 	},
 	{
 		"titolo": "Il Genio",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_genio.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -3476,7 +3477,7 @@
 	},
 	{
 		"titolo": "Immaturi",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "immaturi.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -3487,7 +3488,7 @@
 	},
 	{
 		"titolo": "Inception",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "inception.jpg",
 		"durata": 0,
 		"anno": 2010,
@@ -3498,7 +3499,7 @@
 	},
 	{
 		"titolo": "Innocenza Colposa",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "innocenza_colposa.jpg",
 		"durata": 0,
 		"anno": 2000,
@@ -3509,7 +3510,7 @@
 	},
 	{
 		"titolo": "Justice League",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "justice_league.jpg",
 		"durata": 0,
 		"anno": 2017,
@@ -3520,7 +3521,7 @@
 	},
 	{
 		"titolo": "L'Ufficiale e la Spia",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "l_ufficiale_e_la_spia.jpg",
 		"durata": 0,
 		"anno": 2019,
@@ -3531,7 +3532,7 @@
 	},
 	{
 		"titolo": "L'Ultimo dei Templari",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "l_ultimo_dei_templari.jpg",
 		"durata": 0,
 		"anno": 2011,
@@ -3542,7 +3543,7 @@
 	},
 	{
 		"titolo": "L'Uomo dell'Anno",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "l_uomo_dell_anno.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -3553,7 +3554,7 @@
 	},
 	{
 		"titolo": "La Famiglia Addams 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "la_famiglia_addams_2.jpg",
 		"durata": 0,
 		"anno": 1993,
@@ -3564,7 +3565,7 @@
 	},
 	{
 		"titolo": "La mia amica speciale",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "la_mia_amica_speciale.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -3575,7 +3576,7 @@
 	},
 	{
 		"titolo": "La Terra Buona",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "la_terra_buona.jpg",
 		"durata": 0,
 		"anno": 2018,
@@ -3586,7 +3587,7 @@
 	},
 	{
 		"titolo": "Lady killers",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "lady_killers.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -3597,7 +3598,7 @@
 	},
 	{
 		"titolo": "Le Cronache di Narnia - Il Leone,la Strega e l'Armadio",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "le_cronache_di_narnia_il_leone_la_strega_e_l_armadio.jpg",
 		"durata": 0,
 		"anno": 2005,
@@ -3608,7 +3609,7 @@
 	},
 	{
 		"titolo": "Le Cronache di Narnia - Il Principe Caspian",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "le_cronache_di_narnia_il_principe_caspian.jpg",
 		"durata": 0,
 		"anno": 2008,
@@ -3619,7 +3620,7 @@
 	},
 	{
 		"titolo": "Le Cronache di Narnia - Il viaggio del veliero",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "le_cronache_di_narnia_il_viaggio_del_veliero.jpg",
 		"durata": 0,
 		"anno": 2010,
@@ -3630,7 +3631,7 @@
 	},
 	{
 		"titolo": "Mamma mia!",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "mamma_mia.jpg",
 		"durata": 0,
 		"anno": 2008,
@@ -3641,7 +3642,7 @@
 	},
 	{
 		"titolo": "Ant-Man and the Vasp",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "ant_man_and_the_vasp.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -3652,7 +3653,7 @@
 	},
 	{
 		"titolo": "Ant-Man",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "ant_man.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -3663,7 +3664,7 @@
 	},
 	{
 		"titolo": "Avengers - Age of Ultron",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "avengers_age_of_ultron.jpg",
 		"durata": 0,
 		"anno": 2015,
@@ -3674,7 +3675,7 @@
 	},
 	{
 		"titolo": "Avengers - Infinity War",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "avengers_infinity_war.jpg",
 		"durata": 0,
 		"anno": 2018,
@@ -3685,7 +3686,7 @@
 	},
 	{
 		"titolo": "Avengers",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "avengers.jpg",
 		"durata": 0,
 		"anno": 2012,
@@ -3696,7 +3697,7 @@
 	},
 	{
 		"titolo": "Black Panther",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "black_panther.jpg",
 		"durata": 0,
 		"anno": 2018,
@@ -3707,7 +3708,7 @@
 	},
 	{
 		"titolo": "Captain America - Civil War",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "captain_america_civil_war.jpg",
 		"durata": 0,
 		"anno": 2016,
@@ -3718,7 +3719,7 @@
 	},
 	{
 		"titolo": "Captain America - Il Primo Vendicatore",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "captain_america_il_primo_vendicatore.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -3729,7 +3730,7 @@
 	},
 	{
 		"titolo": "Captain America - The Winter Soldier",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "captain_america_the_winter_soldier.jpg",
 		"durata": 0,
 		"anno": 2014,
@@ -3740,7 +3741,7 @@
 	},
 	{
 		"titolo": "Captain Marvel",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "captain_marvel.jpg",
 		"durata": 0,
 		"anno": 2019,
@@ -3751,7 +3752,7 @@
 	},
 	{
 		"titolo": "Doctor Strange",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "doctor_strange.jpg",
 		"durata": 0,
 		"anno": 2016,
@@ -3762,7 +3763,7 @@
 	},
 	{
 		"titolo": "I Guardiani della Galassia",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "i_guardiani_della_galassia.jpg",
 		"durata": 0,
 		"anno": 2014,
@@ -3773,7 +3774,7 @@
 	},
 	{
 		"titolo": "Iron Man",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "iron_man.jpg",
 		"durata": 0,
 		"anno": 2008,
@@ -3784,7 +3785,7 @@
 	},
 	{
 		"titolo": "Iron Man 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "iron_man_2.jpg",
 		"durata": 0,
 		"anno": 2010,
@@ -3795,7 +3796,7 @@
 	},
 	{
 		"titolo": "Iron Man 3",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "iron_man_3.jpg",
 		"durata": 0,
 		"anno": 2013,
@@ -3806,7 +3807,7 @@
 	},
 	{
 		"titolo": "Lanterna Verde",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "lanterna_verde.jpg",
 		"durata": 0,
 		"anno": 2011,
@@ -3817,7 +3818,7 @@
 	},
 	{
 		"titolo": "L’incredibile Hulk",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "l_incredibile_hulk.jpg",
 		"durata": 0,
 		"anno": 2008,
@@ -3828,7 +3829,7 @@
 	},
 	{
 		"titolo": "SpiderMan - Homecoming",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "spiderman_homecoming.jpg",
 		"durata": 0,
 		"anno": 2017,
@@ -3839,7 +3840,7 @@
 	},
 	{
 		"titolo": "Thor",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "thor.jpg",
 		"durata": 0,
 		"anno": 2011,
@@ -3850,7 +3851,7 @@
 	},
 	{
 		"titolo": "Thor Ragnarok",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "thor_ragnarok.jpg",
 		"durata": 0,
 		"anno": 2017,
@@ -3861,7 +3862,7 @@
 	},
 	{
 		"titolo": "Thor - The Dark World",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "thor_the_dark_world.jpg",
 		"durata": 0,
 		"anno": 2013,
@@ -3872,7 +3873,7 @@
 	},
 	{
 		"titolo": "Wolverine - L'immortale",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "wolverine_l_immortale.jpg",
 		"durata": 0,
 		"anno": 2013,
@@ -3883,7 +3884,7 @@
 	},
 	{
 		"titolo": "XMen - Conflitto Finale",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "x_men_conflitto_finale.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -3894,7 +3895,7 @@
 	},
 	{
 		"titolo": "X-Men - Giorni di un Futuro Passato",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "x_men_giorni_di_un_futuro_passato.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -3905,7 +3906,7 @@
 	},
 	{
 		"titolo": "X-Men - L'Inizio",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "x_men_l_inizio.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -3916,7 +3917,7 @@
 	},
 	{
 		"titolo": "X-Men Le Origini - Wolverine",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "x_men_origins_wolverine.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -3927,7 +3928,7 @@
 	},
 	{
 		"titolo": "X-Men 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "x_men_2.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -3938,7 +3939,7 @@
 	},
 	{
 		"titolo": "Mio fratello rincorre i dinosauri",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "mio_fratello_rincorre_i_dinosauri.jpg",
 		"durata": 0,
 		"anno": 2019,
@@ -3949,7 +3950,7 @@
 	},
 	{
 		"titolo": "Niente da dichiarare",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "niente_da_dichiarare.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -3960,7 +3961,7 @@
 	},
 	{
 		"titolo": "Now You See Me - I Maghi Del Crimine",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "now_you_see_me_i_maghi_del_crimine.jpg",
 		"durata": 0,
 		"anno": 2013,
@@ -3971,7 +3972,7 @@
 	},
 	{
 		"titolo": "Now You See Me - I Maghi Del Crimine 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "now_you_see_me_i_maghi_del_crimine_2.jpg",
 		"durata": 0,
 		"anno": 2016,
@@ -3982,7 +3983,7 @@
 	},
 	{
 		"titolo": "Parto col Folle",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "parto_col_folle.jpg",
 		"durata": 0,
 		"anno": 2010,
@@ -3993,7 +3994,7 @@
 	},
 	{
 		"titolo": "Pollicino",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "pollicino.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4004,7 +4005,7 @@
 	},
 	{
 		"titolo": "Può succedere anche a te",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "puo_succedere_anche_a_te.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4015,7 +4016,7 @@
 	},
 	{
 		"titolo": "Quasi Amici - Intouchables",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "quasi_amici_intouchables.jpg",
 		"durata": 0,
 		"anno": 2011,
@@ -4026,7 +4027,7 @@
 	},
 	{
 		"titolo": "Radio West",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "radio_west.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4037,7 +4038,7 @@
 	},
 	{
 		"titolo": "Scusate se esisto!",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "scusate_se_esisto.jpg",
 		"durata": 0,
 		"anno": 2014,
@@ -4048,7 +4049,7 @@
 	},
 	{
 		"titolo": "Sotto una Buona Stella",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "sotto_una_buona_stella.jpg",
 		"durata": 0,
 		"anno": 2014,
@@ -4059,7 +4060,7 @@
 	},
 	{
 		"titolo": "Tata Matilda e il Grande Botto",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "tata_matilda_e_il_grande_botto.jpg",
 		"durata": 0,
 		"anno": 2010,
@@ -4070,7 +4071,7 @@
 	},
 	{
 		"titolo": "The Blues Brothers",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "the_blues_brothers.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4081,7 +4082,7 @@
 	},
 	{
 		"titolo": "The Crew - Missione Impossibile",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "the_crew_missione_impossibile.jpg",
 		"durata": 0,
 		"anno": 2015,
@@ -4092,7 +4093,7 @@
 	},
 	{
 		"titolo": "The Equalizer 2 Senza Perdono",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "the_equalizer_2_senza_perdono.jpg",
 		"durata": 0,
 		"anno": 2018,
@@ -4103,7 +4104,7 @@
 	},
 	{
 		"titolo": "The Karate Kid - Per vincere domani",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "the_karate_kid_per_vincere_domani.jpg",
 		"durata": 0,
 		"anno": 1984,
@@ -4114,7 +4115,7 @@
 	},
 	{
 		"titolo": "The Terminal",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "the_terminal.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4125,7 +4126,7 @@
 	},
 	{
 		"titolo": "Il Signore degli Anelli - Il Ritorno del Re",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_signore_degli_anelli_il_ritorno_del_re.jpg",
 		"durata": 0,
 		"anno": 2002,
@@ -4136,7 +4137,7 @@
 	},
 	{
 		"titolo": "Il Signore degli Anelli - La Compagnia dell'Anello",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_signore_degli_anelli_la_compagnia_dell_anello.jpg",
 		"durata": 0,
 		"anno": 2001,
@@ -4147,7 +4148,7 @@
 	},
 	{
 		"titolo": "Il Signore degli Anelli - Le due Torri",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_signore_degli_anelli_le_due_torri.jpg",
 		"durata": 0,
 		"anno": 2002,
@@ -4158,7 +4159,7 @@
 	},
 	{
 		"titolo": "Tutta colpa di Giuda",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "tutta_colpa_di_giuda.jpg",
 		"durata": 0,
 		"anno": 2009,
@@ -4169,7 +4170,7 @@
 	},
 	{
 		"titolo": "Tutta la vita davanti",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "tutta_la_vita_davanti.jpg",
 		"durata": 0,
 		"anno": 2008,
@@ -4180,7 +4181,7 @@
 	},
 	{
 		"titolo": "Tutti gli uomini del deficiente",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "tutti_gli_uomini_del_deficiente.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4191,7 +4192,7 @@
 	},
 	{
 		"titolo": "Tutti insieme appassionatamente",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "tutti_insieme_appassionatamente.jpg",
 		"durata": 0,
 		"anno": 1965,
@@ -4202,7 +4203,7 @@
 	},
 	{
 		"titolo": "Un amore di testimone",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "un_amore_di_testimone.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4213,7 +4214,7 @@
 	},
 	{
 		"titolo": "Una notte da leoni 2",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "una_notte_da_leoni_2.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4224,7 +4225,7 @@
 	},
 	{
 		"titolo": "Una notte da leoni",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "una_notte_da_leoni.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4235,7 +4236,7 @@
 	},
 	{
 		"titolo": "Will Hunting - Genio Ribelle",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "will_hunting_genio_ribelle.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4246,7 +4247,7 @@
 	},
 	{
 		"titolo": "Ace Ventura - L'Acchiappanimali",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "ace_ventura_l_acchiappanimali.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4257,7 +4258,7 @@
 	},
 	{
 		"titolo": "Ace Ventura - Missione Africa",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "ace_ventura_missione_africa.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4268,7 +4269,7 @@
 	},
 	{
 		"titolo": "Aiuto ho ristretto i miei amici",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "aiuto_ho_ristretto_i_miei_amici.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4279,7 +4280,7 @@
 	},
 	{
 		"titolo": "Asterix e la Grande Guerra",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "asterix_e_la_grande_guerra.jpg",
 		"durata": 81,
 		"anno": 1989,
@@ -4290,7 +4291,7 @@
 	},
 	{
 		"titolo": "Baby Boss - Un Natale speciale",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "baby_boss_un_natale_speciale.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4301,7 +4302,7 @@
 	},
 	{
 		"titolo": "Benvenuti al Sud",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "benvenuti_al_sud.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4312,7 +4313,7 @@
 	},
 	{
 		"titolo": "Benvenuti al Nord",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "benvenuti_al_nord.jpg",
 		"durata": 110,
 		"anno": 2012,
@@ -4323,7 +4324,7 @@
 	},
 	{
 		"titolo": "Flora e Ulisse",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "flora_e_ulisse.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4334,7 +4335,7 @@
 	},
 	{
 		"titolo": "Il mio Grosso Grasso Matrimonio Greco",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_mio_grosso_grasso_matrimonio_greco.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4345,7 +4346,7 @@
 	},
 	{
 		"titolo": "L'Uomo che sognava con le Acquile",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "l_uomo_che_sognava_con_le_acquile.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4356,7 +4357,7 @@
 	},
 	{
 		"titolo": "Lucky Luke",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "lucky_luke.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4367,7 +4368,7 @@
 	},
 	{
 		"titolo": "Mamma ho perso l'Aereo",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "mamma_ho_perso_l_aereo.jpg",
 		"durata": 103,
 		"anno": 1990,
@@ -4378,7 +4379,7 @@
 	},
 	{
 		"titolo": "Mamma ho riperso l'Aereo,mi sono smarrito a New York",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "mamma_ho_riperso_l_aereo_mi_sono_smarrito_a_new_york.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4389,7 +4390,7 @@
 	},
 	{
 		"titolo": "SpiderMan - No Way Home",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "spiderman_no_way_home.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4400,7 +4401,7 @@
 	},
 	{
 		"titolo": "Tesoro ci siamo ristretti anche noi",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "tesoro_ci_siamo_ristretti_anche_noi.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4411,7 +4412,7 @@
 	},
 	{
 		"titolo": "The Equalizer - Il Vendicatore",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "the_equalizer_il_vendicatore.jpg",
 		"durata": 0,
 		"anno": 0,
@@ -4422,7 +4423,7 @@
 	},
 	{
 		"titolo": "Tom e Jerry",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "tom_e_jerry.jpg",
 		"durata": 101,
 		"anno": 2021,
@@ -4433,7 +4434,7 @@
 	},
 	{
 		"titolo": "Il caso Thomas Crawford",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_caso_thomas_crawford.jpg",
 		"durata": 114,
 		"anno": 2007,
@@ -4444,7 +4445,7 @@
 	},
 	{
 		"titolo": "Inkheart - La Leggenda di Cuore d'Inchiostro",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "inkheart_la_leggenda_di_cuore_d_inchiostro.jpg",
 		"durata": 106,
 		"anno": 2009,
@@ -4455,7 +4456,7 @@
 	},
 	{
 		"titolo": "Batman Begins",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "batman_begins.jpg",
 		"durata": 140,
 		"anno": 2005,
@@ -4466,7 +4467,7 @@
 	},
 	{
 		"titolo": "Il Cavaliere Oscuro",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_cavaliere_oscuro.jpg",
 		"durata": 152,
 		"anno": 2008,
@@ -4477,7 +4478,7 @@
 	},
 	{
 		"titolo": "Il Cavaliere Oscuro - Il Ritorno",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_cavaliere_oscuro_il_ritorno.jpg",
 		"durata": 165,
 		"anno": 2012,
@@ -4488,7 +4489,7 @@
 	},
 	{
 		"titolo": "Batman Forever",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "batman_forever.jpg",
 		"durata": 122,
 		"anno": 1995,
@@ -4499,7 +4500,7 @@
 	},
 	{
 		"titolo": "Batman e Robin",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "batman_e_robin.jpg",
 		"durata": 125,
 		"anno": 1997,
@@ -4510,7 +4511,7 @@
 	},
 	{
 		"titolo": "Il Prodigioso Maurice",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_prodigioso_maurice.jpg",
 		"durata": 93,
 		"anno": 2022,
@@ -4521,7 +4522,7 @@
 	},
 	{
 		"titolo": "Déjà Vu - Corsa contro il Tempo",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "deja_vu_corsa_contro_il_tempo.jpg",
 		"durata": 126,
 		"anno": 2006,
@@ -4532,7 +4533,7 @@
 	},
 	{
 		"titolo": "Il Cacciatore di Acquiloni",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "il_cacciatore_di_acquiloni.jpg",
 		"durata": 128,
 		"anno": 2007,
@@ -4543,7 +4544,7 @@
 	},
 	{
 		"titolo": "Rogue Hostage",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "rogue_hostage.jpg",
 		"durata": 93,
 		"anno": 2021,
@@ -4554,7 +4555,7 @@
 	},
 	{
 		"titolo": "Fuga per la Vittoria",
-		"copertina_URL": "",
+		"copertina_url": "",
 		"copertina": "fuga_per_la_vittoria.jpg",
 		"durata": 117,
 		"anno": 1981,
