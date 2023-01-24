@@ -3,13 +3,12 @@
 		"titolo": "2012",
 		"copertina_url": "https://pad.mymovies.it/filmclub/2008/11/079/locandina.jpg",
 		"copertina": "2012.jpg",
-		"trailer_ITA_url": "https://www.youtube.com/watch?v=XXh43EJHm1o"
 		"durata": 0,
 		"anno": 0,
 		"bimbi": "NO",
 		"gruppo": "",
 		"note": "",
-		"trailer_ITA_url": ""
+		"trailer_ITA_url": "https://www.youtube.com/watch?v=XXh43EJHm1o"
 	},
 	{
 		"titolo": "Anche Se E Amore Non Si Vede",
@@ -31,7 +30,7 @@
 		"bimbi": "SI",
 		"gruppo": "",
 		"note": "",
-		"trailer_ITA_url": ""
+		"trailer_ITA_url": "https://www.youtube.com/watch?v=jeBzlr8IcPs"
 	},
 	{
 		"titolo": "A spasso col panda",
@@ -42,7 +41,7 @@
 		"bimbi": "SI",
 		"gruppo": "",
 		"note": "",
-		"trailer_ITA_url": ""
+		"trailer_ITA_url": "https://www.youtube.com/watch?v=ZkwbbQZF_YM"
 	},
 	{
 		"titolo": "A spasso con i Dinosauri",
@@ -397,7 +396,7 @@
 		"trailer_ITA_url": "",
 	},
 	{
-		"titolo": "Babe va in Città",
+		"titolo": "Babe va in Citt�",
 		"copertina_url": "",
 		"copertina": "babe_va_in_citta.jpg",
 		"durata": 0,
@@ -415,7 +414,7 @@
 		"bimbi": "SI",
 		"gruppo": "",
 		"note": "",
-		"trailer_ITA_url": ""
+		"trailer_ITA_url": "https://www.youtube.com/watch?v=gFBFRSs5sCY"
 	},
 	{
 		"titolo": "Baby Boss 2 - Affari di famiglia",
@@ -426,7 +425,7 @@
 		"bimbi": "SI",
 		"gruppo": "",
 		"note": "",
-		"trailer_ITA_url": ""
+		"trailer_ITA_url": "https://www.youtube.com/watch?v=ria05eInE08"
 	},
 	{
 		"titolo": "Balto",
@@ -770,7 +769,7 @@
 		"trailer_ITA_url": ""
 	},
 	{
-		"titolo": "Herbie - 2 Il Maggiolino sempre più matto",
+		"titolo": "Herbie - 2 Il Maggiolino sempre pi� matto",
 		"copertina_url": "",
 		"copertina": "herbie_2_il_maggiolino_sempre_piu_matto.jpg",
 		"durata": 0,
@@ -891,7 +890,7 @@
 		"trailer_ITA_url": ""
 	},
 	{
-		"titolo": "Quello strano cane di papà",
+		"titolo": "Quello strano cane di pap�",
 		"copertina_url": "",
 		"copertina": "quello_strano_cane_di_papa.jpg",
 		"durata": 0,
@@ -1045,7 +1044,7 @@
 		"trailer_ITA_url": ""
 	},
 	{
-		"titolo": "Giù per il Tubo",
+		"titolo": "Gi� per il Tubo",
 		"copertina_url": "",
 		"copertina": "giu_per_il_tubo.jpg",
 		"durata": 86,
@@ -2277,7 +2276,7 @@
 		"trailer_ITA_url": ""
 	},
 	{
-		"titolo": "Sing 2 - Sempre più forte",
+		"titolo": "Sing 2 - Sempre pi� forte",
 		"copertina_url": "",
 		"copertina": "sing_2_sempre_piu_forte.jpg",
 		"durata": 0,
@@ -2302,12 +2301,23 @@
 		"titolo": "Space Jam",
 		"copertina_url": "",
 		"copertina": "space_jam.jpg",
-		"durata": 0,
-		"anno": 0,
+		"durata": 100,
+		"anno": 1996,
 		"bimbi": "SI",
 		"gruppo": "",
 		"note": "",
-		"trailer_ITA_url": ""
+		"trailer_ITA_url": "https://www.youtube.com/watch?v=GDySCEJ-ku0"
+	},
+	{
+		"titolo": "Space Jam - New Legends",
+		"copertina_url": "",
+		"copertina": "space_jam_new_legends.jpg",
+		"durata": 115,
+		"anno": 2021,
+		"bimbi": "SI",
+		"gruppo": "",
+		"note": "",
+		"trailer_ITA_url": "https://www.youtube.com/watch?v=8uJih78e4rY"
 	},
 	{
 		"titolo": "Spie sotto copertura",
@@ -2783,7 +2793,7 @@
 		"trailer_ITA_url": ""
 	},
 	{
-		"titolo": "Chissà perché capitano tutte a me",
+		"titolo": "Chiss� perch� capitano tutte a me",
 		"copertina_url": "",
 		"copertina": "chissa_perche_capitano_tutte_a_me.jpg",
 		"durata": 87,
@@ -2794,7 +2804,7 @@
 		"trailer_ITA_url": ""
 	},
 	{
-		"titolo": "Continuavano a chiamarlo Trinità",
+		"titolo": "Continuavano a chiamarlo Trinit�",
 		"copertina_url": "",
 		"copertina": "continuavano_a_chiamarlo_trinita.jpg",
 		"durata": 117,
@@ -2871,7 +2881,7 @@
 		"trailer_ITA_url": ""
 	},
 	{
-		"titolo": "Si può fare amigo",
+		"titolo": "Si pu� fare amigo",
 		"copertina_url": "",
 		"copertina": "si_puo_fare_amigo.jpg",
 		"durata": 109,
@@ -2926,7 +2936,7 @@
 		"trailer_ITA_url": ""
 	},
 	{
-		"titolo": "Il Mio Nome è Thomas",
+		"titolo": "Il Mio Nome � Thomas",
 		"copertina_url": "",
 		"copertina": "il_mio_nome_e_thomas.jpg",
 		"durata": 0,
@@ -2959,7 +2969,7 @@
 		"trailer_ITA_url": ""
 	},
 	{
-		"titolo": "Lo Chiamavano Trinità",
+		"titolo": "Lo Chiamavano Trinit�",
 		"copertina_url": "",
 		"copertina": "lo_chiamavano_trinita.jpg",
 		"durata": 0,
@@ -2992,7 +3002,7 @@
 		"trailer_ITA_url": ""
 	},
 	{
-		"titolo": "Non c'è 2 senza 4",
+		"titolo": "Non c'� 2 senza 4",
 		"copertina_url": "",
 		"copertina": "non_c_e_2_senza_4.jpg",
 		"durata": 104,
@@ -3069,7 +3079,7 @@
 		"trailer_ITA_url": ""
 	},
 	{
-		"titolo": "Più Forte Ragazzi!",
+		"titolo": "Pi� Forte Ragazzi!",
 		"copertina_url": "",
 		"copertina": "piu_forte_ragazzi.jpg",
 		"durata": 122,
@@ -3080,7 +3090,7 @@
 		"trailer_ITA_url": ""
 	},
 	{
-		"titolo": "Poliziotto Superpiù",
+		"titolo": "Poliziotto Superpi�",
 		"copertina_url": "",
 		"copertina": "poliziotto_superpiu.jpg",
 		"durata": 0,
@@ -3817,22 +3827,11 @@
 		"trailer_ITA_url": ""
 	},
 	{
-		"titolo": "L’incredibile Hulk",
+		"titolo": "L'incredibile Hulk",
 		"copertina_url": "",
 		"copertina": "l_incredibile_hulk.jpg",
 		"durata": 0,
 		"anno": 2008,
-		"bimbi": "NO",
-		"gruppo": "Marvel",
-		"note": "",
-		"trailer_ITA_url": ""
-	},
-	{
-		"titolo": "SpiderMan - Homecoming",
-		"copertina_url": "",
-		"copertina": "spiderman_homecoming.jpg",
-		"durata": 0,
-		"anno": 2017,
 		"bimbi": "NO",
 		"gruppo": "Marvel",
 		"note": "",
@@ -4004,7 +4003,7 @@
 		"trailer_ITA_url": ""
 	},
 	{
-		"titolo": "Può succedere anche a te",
+		"titolo": "Pu� succedere anche a te",
 		"copertina_url": "",
 		"copertina": "puo_succedere_anche_a_te.jpg",
 		"durata": 0,
@@ -4389,15 +4388,92 @@
 		"trailer_ITA_url": ""
 	},
 	{
-		"titolo": "SpiderMan - No Way Home",
+		"titolo": "Spider-Man",
 		"copertina_url": "",
-		"copertina": "spiderman_no_way_home.jpg",
-		"durata": 0,
-		"anno": 0,
+		"copertina": "spider_man.jpg",
+		"durata": 121,
+		"anno": 2002,
 		"bimbi": "NO",
-		"gruppo": "Marvel",
+		"gruppo": "SpiderMan",
 		"note": "",
-		"trailer_ITA_url": ""
+		"trailer_ITA_url": "https://www.youtube.com/watch?v=t06RUxPbp_c"
+	},
+	{
+		"titolo": "Spider-Man 2",
+		"copertina_url": "",
+		"copertina": "spider_man_2.jpg",
+		"durata": 127,
+		"anno": 2004,
+		"bimbi": "NO",
+		"gruppo": "SpiderMan",
+		"note": "",
+		"trailer_ITA_url": "https://www.youtube.com/watch?v=Drj-yF6V_bk"
+	},
+	{
+		"titolo": "Spider-Man 3",
+		"copertina_url": "",
+		"copertina": "spider_man_3.jpg",
+		"durata": 139,
+		"anno": 2007,
+		"bimbi": "NO",
+		"gruppo": "SpiderMan",
+		"note": "",
+		"trailer_ITA_url": "https://www.youtube.com/watch?v=mZewNY9X-Yo"
+	},		
+	{
+		"titolo": "The Amazing Spider-Man",
+		"copertina_url": "",
+		"copertina": "the_amazing_spider_man.jpg",
+		"durata": 136,
+		"anno": 2012,
+		"bimbi": "NO",
+		"gruppo": "SpiderMan",
+		"note": "",
+		"trailer_ITA_url": "https://www.youtube.com/watch?v=OHQydwBcU3s"
+	},
+	{
+		"titolo": "The Amazing Spider-Man 2: Il Potere di Electro",
+		"copertina_url": "",
+		"copertina": "the_amazing_spider_man_2_il_potere_di_electro.jpg",
+		"durata": 142,
+		"anno": 2014,
+		"bimbi": "NO",
+		"gruppo": "SpiderMan",
+		"note": "",
+		"trailer_ITA_url": "https://www.youtube.com/watch?v=mw4G9du2aXk"
+	},
+	{
+		"titolo": "Spider-Man - Homecoming",
+		"copertina_url": "",
+		"copertina": "spider_man_homecoming.jpg",
+		"durata": 133,
+		"anno": 2017,
+		"bimbi": "NO",
+		"gruppo": "SpiderMan",
+		"note": "",
+		"trailer_ITA_url": "https://www.youtube.com/watch?v=rs64hwoQSiI"
+	},
+	{
+		"titolo": "Spider-Man - Far from Home",
+		"copertina_url": "",
+		"copertina": "spider_man_far_from_home.jpg",
+		"durata": 130,
+		"anno": 2019,
+		"bimbi": "NO",
+		"gruppo": "SpiderMan",
+		"note": "",
+		"trailer_ITA_url": "https://www.youtube.com/watch?v=t90CMbS_YGU"
+	},
+	{
+		"titolo": "Spider-Man - No Way Home",
+		"copertina_url": "",
+		"copertina": "spider_man_no_way_home.jpg",
+		"durata": 148,
+		"anno": 2021,
+		"bimbi": "NO",
+		"gruppo": "SpiderMan",
+		"note": "",
+		"trailer_ITA_url": "https://www.youtube.com/watch?v=FO9bF42JBSI"
 	},
 	{
 		"titolo": "Tesoro ci siamo ristretti anche noi",
@@ -4521,7 +4597,7 @@
 		"trailer_ITA_url": "",
 	},
 	{
-		"titolo": "Déjà Vu - Corsa contro il Tempo",
+		"titolo": "D�j� Vu - Corsa contro il Tempo",
 		"copertina_url": "",
 		"copertina": "deja_vu_corsa_contro_il_tempo.jpg",
 		"durata": 126,
