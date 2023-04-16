@@ -1,5 +1,6 @@
 [
 	{
+		"id": "001",
 		"nome": "Sega circolare BOSCH PKS18LI",
 		"quantita": 4,
 		"prezzo": "199,90",
@@ -7,6 +8,7 @@
 		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/96812"
 	},
 	{
+		"id": "002",
 		"nome": "Dado cieco STANDERS, diametro 10mm",
 		"quantita": 400,
 		"prezzo": "3,10",
@@ -14,6 +16,7 @@
 		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/172557"
 	},
 	{
+		"id": "003",
 		"nome": "Dado a farfalla STANDERS, diametro 6mm",
 		"quantita": 200,
 		"prezzo": "1,60",
@@ -21,6 +24,7 @@
 		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/176330"
 	},
 	{
+		"id": "004",
 		"nome": "Dado esagonale STANDERS, diametro 8mm",
 		"quantita": 50,
 		"prezzo": "3,20",
@@ -28,6 +32,7 @@
 		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/172767"
 	},
 	{
+		"id": "005",
 		"nome": "Ruota antiforatura in poliuretano, diametro 260mm",
 		"quantita": 20,
 		"prezzo": "15,90",
@@ -35,6 +40,7 @@
 		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/162341"
 	},
 	{
+		"id": "006",
 		"nome": "Piedino , 100 pezzi",
 		"quantita": 1,
 		"prezzo": "7,10",
@@ -42,6 +48,7 @@
 		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/754367"
 	},
 	{
+		"id": "007",
 		"nome": "Seghetto alternativo a batteria BOSCH PROFESSIONAL GST18V-LIB , 18 V , 4 Ah, 2 batterie",
 		"quantita": 4,
 		"prezzo": "449,90",
@@ -49,6 +56,7 @@
 		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/96026"
 	},
 	{
+		"id": "008",
 		"nome": "Set utensili DEXTER , 130 pezzi",
 		"quantita": 10,
 		"prezzo": "119,90",
@@ -56,6 +64,7 @@
 		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/510415"
 	},
 	{
+		"id": "009",
 		"nome": "Pennello Piatto gel 30 mm per Smalto a solvente PENNELLI CINGHIALE",
 		"quantita": 103,
 		"prezzo": "2,99",
@@ -63,6 +72,7 @@
 		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/548404"
 	},
 	{
+		"id": "010",
 		"nome": "Cerniera per anta cucina per mobili centrata perno fisso L 9 x H 14 cm",
 		"quantita": 30,
 		"prezzo": "4,15",
@@ -70,6 +80,7 @@
 		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/234954"
 	},
 	{
+		"id": "011",
 		"nome": "Maniglia con rosetta e bocchetta INSPIRE Eina in acciaio inossidabile spazzolato",
 		"quantita": 3,
 		"prezzo": "16,99",
@@ -77,6 +88,7 @@
 		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/239250"
 	},
 	{
+		"id": "012",
 		"nome": "Maniglia con rosetta e bocchetta ATELIER Cloe in zama lucido",
 		"quantita": 1,
 		"prezzo": "24,99",
