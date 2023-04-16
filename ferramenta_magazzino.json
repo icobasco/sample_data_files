@@ -5,7 +5,8 @@
 		"quantita": 4,
 		"prezzo": "199,90",
 		"descrizione": "Batteria al Litio, profondità di taglio max 48 mm. Indicata per tagli rettilinei e veloci di legno, plastica e metalli. Lavoro pulito. Un pratico attacco permette di collegare un aspiratore per la raccolta della segatura durante il funzionamento. Massimo comfort per lavori di lunga durata con il sistema antivibrazione",
-		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/96812"
+		"icon_url": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/96812",
+		"img_url": "https://www.bosch-diy.com/imagestorage/it-it/pks-18-li-100038020-hires-png-rgb-oneux-329637_w_750_h_421.png"
 	},
 	{
 		"id": "002",
@@ -13,7 +14,8 @@
 		"quantita": 400,
 		"prezzo": "3,10",
 		"descrizione": "In ottone, confezione da 3 pezzi",
-		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/172557"
+		"icon_url": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/172557",
+		"img_url": "XXX"
 	},
 	{
 		"id": "003",
@@ -21,7 +23,8 @@
 		"quantita": 200,
 		"prezzo": "1,60",
 		"descrizione": "In acciaio zincato, confezione da 10 pezzi",
-		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/176330"
+		"icon_url": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/176330",
+		"img_url": "XXX"
 	},
 	{
 		"id": "004",
@@ -29,7 +32,8 @@
 		"quantita": 50,
 		"prezzo": "3,20",
 		"descrizione": "In acciaio zincato, confezione da 140 pezzi",
-		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/172767"
+		"icon_url": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/172767",
+		"img_url": "XXX"
 	},
 	{
 		"id": "005",
@@ -37,7 +41,8 @@
 		"quantita": 20,
 		"prezzo": "15,90",
 		"descrizione": "Portata massima 70 kg",
-		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/162341"
+		"icon_url": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/162341",
+		"img_url": "XXX"
 	},
 	{
 		"id": "006",
@@ -45,7 +50,8 @@
 		"quantita": 1,
 		"prezzo": "7,10",
 		"descrizione": "Pattini con chiodo da fissare al mobile. Protegge mobili e superfici. Con D. 14,5 mm e spessore 5 mm. Ogni lotto contiene 100 pezzi. Prodotto in acciaio e plastica con finitura marrone.",
-		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/754367"
+		"icon_url": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/754367",
+		"img_url": "XXX"
 	},
 	{
 		"id": "007",
@@ -53,7 +59,8 @@
 		"quantita": 4,
 		"prezzo": "449,90",
 		"descrizione": "2 batterie al Litio, capacità di taglio max 120 mm. Indicato per il taglio dritto e curvilineo di legno, metalli e materiali plastici",
-		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/96026"
+		"icon_url": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/96026",
+		"img_url": "XXX"
 	},
 	{
 		"id": "008",
@@ -61,7 +68,8 @@
 		"quantita": 10,
 		"prezzo": "119,90",
 		"descrizione": "Composizione del set: 30 bit, livella 40 cm, sega da ferro, martello, 2 raccordi, 11 cacciaviti, flessometro, chiave regolabile, 21 bussole, 6 chiavi combinate, 7 chiavi a brugola, 2 cricchetti, 8 matite, righello 30 cm, 2 snodi, 2 prolunghe, chiave a rullino, cercafase, cutter, 10 lame per cutter, chiave a papagallo, pinza 180cm, tronchese 180 cm, tronchese 110 cm, spelafili, pinza becchi tondi, forbice, 2 cacciaviti isolati, 5 lame per seghetto, prolunga flessibile, cacciavite portainserti, 2 prolunghe CRV, 2 adattatori",
-		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/510415"
+		"icon_url": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/510415",
+		"img_url": "XXX"
 	},
 	{
 		"id": "009",
@@ -69,7 +77,8 @@
 		"quantita": 103,
 		"prezzo": "2,99",
 		"descrizione": "Pennello con manico in legno - ideale per smalti in gel a base solvente o acqua - mm. 30",
-		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/548404"
+		"icon_url": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/548404",
+		"img_url": "XXX"
 	},
 	{
 		"id": "010",
@@ -77,7 +86,8 @@
 		"quantita": 30,
 		"prezzo": "4,15",
 		"descrizione": "Cerniera in ferro come da foto.",
-		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/234954"
+		"icon_url": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/234954",
+		"img_url": "XXX"
 	},
 	{
 		"id": "011",
@@ -85,7 +95,8 @@
 		"quantita": 3,
 		"prezzo": "16,99",
 		"descrizione": "Coppia di maniglie in acciaio, due grani di fissaggio, chiave esagonale per grani, due bocchette, viti da legno, quadro Q8. Indicata per porta da interno battente con serratura patent",
-		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/239250"
+		"icon_url": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/239250",
+		"img_url": "XXX"
 	},
 	{
 		"id": "012",
@@ -93,6 +104,7 @@
 		"quantita": 1,
 		"prezzo": "24,99",
 		"descrizione": "Coppia di maniglie in zama lucido, due grani di fissaggio, chiave esagonale per grani, due bocchette, viti da legno, quadro Q8. Indicata per porta da interno battente con serratura patent",
-		"url_foto": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/141141"
+		"icon_url": "https://leroymerlin-res.cloudinary.com/c_pad,d_no-image_available.png,dpr_1.0,f_auto,fl_lossy,h_100,q_auto:good,w_100/v1/DAMEO/141141",
+		"img_url": "XXX"
 	}
 ]
