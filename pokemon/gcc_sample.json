@@ -1,0 +1,62 @@
+[
+	{
+		"serie": "Evoluzioni Eteree",
+		"progressivo": "001/203",
+		"nome": "Pinsir",
+		"numero": "0127",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2-it-it/img/cards/web/SWSH7/SWSH7_IT_1.png",
+		"abilita": ["Stretta Magistrale"],
+		"mosse": ["Movimento Sismico"]
+	},
+	{
+		"serie": "Evoluzioni Eteree",
+		"progressivo": "023/203",
+		"nome": "Pyroar",
+		"numero": "0668",
+		"stadio_evolutivo": "Fase 1",
+		"img_url": "https://assets.pokemon.com/assets/cms2-it-it/img/cards/web/SWSH7/SWSH7_IT_23.png",
+		"abilita": [],
+		"mosse": ["Fuoco Continuo", "Strappartiglio"]
+	},
+	{
+		"serie": "Evoluzioni Eteree",
+		"progressivo": "024/203",
+		"nome": "Psyduck",
+		"numero": "0054",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2-it-it/img/cards/web/SWSH7/SWSH7_IT_24.png",
+		"abilita": [],
+		"mosse": ["Spruzzapioggia"]
+	},
+	{
+		"serie": "Evoluzioni Eteree",
+		"progressivo": "025/203",
+		"nome": "Golduck",
+		"numero": "0055",
+		"stadio_evolutivo": "Fase 1",
+		"img_url": "https://assets.pokemon.com/assets/cms2-it-it/img/cards/web/SWSH7/SWSH7_IT_25.png",
+		"abilita": [],
+		"mosse": ["Psicoraggio", "Surf"]
+	},
+	{
+		"serie": "Evoluzioni Eteree",
+		"progressivo": "049/203",
+		"nome": "Pikachu",
+		"numero": "0025",
+		"stadio_evolutivo": "Base",
+		"img_url": "https://assets.pokemon.com/assets/cms2-it-it/img/cards/web/SWSH7/SWSH7_IT_49.png",
+		"abilita": [],
+		"mosse": ["Energizza", "Energisfera"]
+	},
+	{
+		"serie": "Evoluzioni Eteree",
+		"progressivo": "050/203",
+		"nome": "Raichu",
+		"numero": "0026",
+		"stadio_evolutivo": "Fase 1",
+		"img_url": "https://assets.pokemon.com/assets/cms2-it-it/img/cards/web/SWSH7/SWSH7_IT_50.png",
+		"abilita": [],
+		"mosse": ["Granscintilla", "Fulmine"]
+	}
+]
