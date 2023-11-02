@@ -1,0 +1,22 @@
+[
+	{
+		"nominativo": "Allione Enrico",
+		"materia": ["TPSIT"]
+	},
+	{
+		"nominativo": "Giordano Andrea",
+		"materia": ["TPSIT"]
+	},
+	{
+		"nominativo": "Monge Flaviano",
+		"materia": ["Informatica"]
+	},
+	{
+		"nominativo": "Verga Pierangelo",
+		"materia": ["Sistemi e Reti"]
+	},
+	{
+		"nominativo": "Dalbesio Manuela",
+		"materia": ["Informatica", "Sistemi e Reti"]
+	}
+]

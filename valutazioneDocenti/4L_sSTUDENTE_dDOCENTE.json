@@ -1,0 +1,14 @@
+[
+	{
+		"id": "WH001",
+		"tipo": "VOTO_2_10",
+		"domanda": "E' noioso?",
+		"voto": 4
+	},
+	{
+		"id": "WH002",
+		"tipo": "VOTO_2_10",
+		"domanda": "Rispiega se glielo chiedi?",
+		"voto": 10
+	}
+]
